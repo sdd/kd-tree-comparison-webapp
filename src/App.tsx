@@ -1,13 +1,13 @@
 import {useState} from 'react'
 import {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer} from 'recharts';
+import { FormClose } from 'grommet-icons';
+import { Box, Button, Text, SelectMultiple } from 'grommet';
 
-import './App.css'
-
-import raw_data from '../all-benchmarks.json'
 import _ from 'lodash';
 
-import { scaleLog } from 'd3-scale';
-const scale = scaleLog().base(Math.E);
+import './App.css'
+import raw_data from '../all-benchmarks.json'
+
 
 const stringToColour = function(str) {
     let hash = 0;
@@ -20,6 +20,10 @@ const stringToColour = function(str) {
         colour += ('00' + value.toString(16)).substr(-2);
     }
     return colour;
+}
+
+function isSelected(dims: str[], types: str[], libs: str[]) {
+    return x => (dims.includes(x.dimensionality) && types.includes(x.axis_type) && libs.includes(x.lib));
 }
 
 function App() {
@@ -40,15 +44,42 @@ function App() {
     const data_by_test = Object.entries(_.groupBy(data, 'test'))
         .map(([name, data]) => [name, _.groupBy(data, 'node_qty')]);
 
+    const [selectedDims, setSelectedDims] = useState(['3D']);
+    const [selectedTypes, setSelectedTypes] = useState(['f64']);
+    const [selectedLibs, setSelectedLibs] = useState(['Kiddo_v2', 'Kiddo_v1', 'FNNTW', 'pykdtree']);
 
     return (
         <div className="App">
             <h1>KD Tree Benchmark</h1>
+            <SelectMultiple
+                placeholder="Dimensions"
+                options={['2D', '3D', '4D']}
+                value={selectedDims}
+                onChange={({ value }) => {
+                    setSelectedDims([...value]);
+                }}
+            />
+            <SelectMultiple
+                placeholder="Axis type"
+                options={['f32', 'f64', 'FXP']}
+                value={selectedTypes}
+                onChange={({ value }) => {
+                    setSelectedTypes([...value]);
+                }}
+            />
+            <SelectMultiple
+                placeholder="Library"
+                options={['Kiddo_v2', 'Kiddo_v1', 'FNNTW', 'pykdtree']}
+                value={selectedLibs}
+                onChange={({ value }) => {
+                    setSelectedLibs([...value]);
+                }}
+            />
             <div style={{width:"100%",height:800}}>
                 { data_by_test.map(([name, data]) => (
                     <div key={name}>
                         <h2>{name}</h2>
-                        <Chart data={data} />
+                        <Chart data={data} selectedDims={selectedDims} selectedTypes={selectedTypes} selectedLibs={selectedLibs} />
                     </div>
                 ))}
             </div>
@@ -56,11 +87,11 @@ function App() {
     );
 }
 
-function Chart({data}) {
+function Chart({data, selectedDims, selectedTypes, selectedLibs}) {
     return (
         <LineChart
             width={1000}
-            height={300}
+            height={600}
             data={Object.entries(data)}
             margin={{
                 top: 5,
@@ -74,8 +105,10 @@ function Chart({data}) {
             <YAxis scale="log" domain={[1, 'dataMax']}/>
             <Tooltip/>
             <Legend/>
-            { data['100'].map((datum, idx) => (
-                <Line key={idx} type="monotoneX" name={`${datum.lib} ${datum.dimensionality} ${datum.axis_type}`} dataKey={d => d[1][idx] ? Number(d[1][idx].duration).toPrecision(3) : 0} stroke={stringToColour(`${datum.lib} ${datum.dimensionality} ${datum.axis_type}`)} />
+            { data['100']
+                .filter(x => { debugger; return isSelected(selectedDims, selectedTypes, selectedLibs)(x); })
+                .map((datum, idx) => (
+                <Line key={idx} type="monotoneX" name={`${datum.lib} ${datum.dimensionality} ${datum.axis_type}`} dataKey={d => d[1][idx] ? Number(d[1][idx].duration).toPrecision(3) : NaN} stroke={stringToColour(`${datum.lib} ${datum.dimensionality} ${datum.axis_type}`)} />
             ))}
         </LineChart>
     );
