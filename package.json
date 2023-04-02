@@ -20,6 +20,7 @@
     "@vitejs/plugin-react-swc": "^3.0.0",
     "grommet": "^2.30.0",
     "grommet-icons": "^4.9.0",
+    "human-number": "^2.0.1",
     "lodash": "^4.17.21",
     "typescript": "^5.0.0",
     "vite": "^4.1.0"
