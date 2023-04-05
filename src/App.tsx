@@ -1,34 +1,47 @@
 import {useState} from 'react'
 import {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Cross, Rectangle, Dot} from 'recharts';
-import { FormClose } from 'grommet-icons';
+import type { LegendType } from 'recharts';
 import { Grid, Box, SelectMultiple } from 'grommet';
 
 import _ from 'lodash';
 import humanNumber from 'human-number'
 
-
 import './App.css'
-import raw_data from '../all-benchmarks.json'
+import raw_data_untyped from '../all-benchmarks.json';
+
+type RawBenchmarkMean = {
+    estimate: number
+    lower_bound: number
+    upper_bound: number
+    unit: string
+}
+
+type RawBenchmark = {
+    id: string,
+    mean: RawBenchmarkMean
+}
+
+const raw_data: RawBenchmark[] = raw_data_untyped;
 
 const LIB_LIST = ['Kiddo_v2', 'Kiddo_v1', 'FNNTW', 'pykdtree', 'nabo', 'sklearn', 'scipy'];
 
-const LIB_COLOUR_MAP = {
-    Kiddo_v2: 'red',
-    Kiddo_v1: 'darkRed',
-    FNNTW: 'orange',
-    pykdtree: 'green',
-    nabo: 'cyan',
-    sklearn: 'blue',
-    scipy: 'violet',
+const LIB_COLOUR_MAP: Dict<string> = {
+    'Kiddo_v2': 'red',
+    'Kiddo_v1': 'darkRed',
+    'FNNTW': 'orange',
+    'pykdtree': 'green',
+    'nabo': 'cyan',
+    'sklearn': 'blue',
+    'scipy': 'violet',
 };
 
-const TYPE_LEGEND_MAP = {
-    f32: 'square',
-    FXP: 'cross',
-    f64: 'circle',
+const TYPE_LEGEND_MAP: Dict<LegendType> = {
+    'f32': 'square',
+    'FXP': 'cross',
+    'f64': 'circle',
 };
 
-const DIM_LABEL_MAP = {
+const DIM_LABEL_MAP: Dict<string> = {
     '2D': '2 2',
     '3D': '',
     '4D': '5 5'
@@ -37,9 +50,24 @@ const DIM_LABEL_MAP = {
 const CROSS_SIZE = 4;
 const RECT_SIZE = 4;
 
-const customDot = (typeName, invert=false) => (props) => {
+type Benchmark = {
+    id: string
+    duration: Number
+    test: string
+    node_qty: string
+    lib: string
+    dimensionality: string
+    axis_type: string
+}
+
+interface Dict<T> {
+    [Key: string]: T;
+}
+
+// @ts-ignore
+const customDot = (typeName: string, invert=false) => (props) => {
     const { cx, cy, stroke, fill, payload, value } = props;
-    debugger;
+
     switch (typeName) {
         case 'f32':
             return <Rectangle x={cx - RECT_SIZE} y={cy - RECT_SIZE} width={RECT_SIZE * 2} height={RECT_SIZE * 2} stroke={invert ? fill : stroke} fill={fill} strokeWidth={1} />;
@@ -50,10 +78,11 @@ const customDot = (typeName, invert=false) => (props) => {
     }
 }
 
-const cartesian =
-    (...a) => a.reduce((a, b) => a.flatMap(d => b.map(e => [d, e].flat())));
 
-const stringToColour = function(str) {
+// @ts-ignore
+const cartesian = (...a: string[][]) => a.reduce((a, b) => a.flatMap(d => b.map(e => [d, e].flat())));
+
+const stringToColour = function(str: string) {
     let hash = 0;
     for (let i = 0; i < str.length; i++) {
         hash = str.charCodeAt(i) + ((hash << 5) - hash);
@@ -66,12 +95,12 @@ const stringToColour = function(str) {
     return colour;
 }
 
-function isSelected(dims: str[], types: str[], libs: str[]) {
-    return x => (dims.includes(x.dimensionality) && types.includes(x.axis_type) && libs.includes(x.lib));
+function isSelected(dims: string[], types: string[], libs: string[]) {
+    return (x: Benchmark) => (dims.includes(x.dimensionality) && types.includes(x.axis_type) && libs.includes(x.lib));
 }
 
 function App() {
-    const data = raw_data.map(d => {
+    const data: Benchmark[] = raw_data.map(d => {
         const [test, params, node_qty] = d.id.split('/');
         const [lib, dimensionality, axis_type] = params.split(" ");
         return {
@@ -86,7 +115,12 @@ function App() {
     });
 
     const data_by_test = Object.entries(_.groupBy(data, 'test'))
-        .map(([name, data]) => [name, _.mapValues(_.groupBy(data, 'node_qty'), vals => Object.fromEntries(vals.map(x => [`${x.lib} ${x.dimensionality} ${x.axis_type}`, x])))]);
+        .map(([name, data]) => ({
+            name,
+            data: _.mapValues(_.groupBy(data, 'node_qty'), vals =>
+                Object.fromEntries(vals.map(x => [`${x.lib} ${x.dimensionality} ${x.axis_type}`, x]))
+            )
+        }));
 
     const [selectedDims, setSelectedDims] = useState(['3D']);
     const [selectedTypes, setSelectedTypes] = useState(['f64']);
@@ -129,8 +163,8 @@ function App() {
                 </Box>
             </Grid>
             <div style={{width:"100%",height:800}}>
-                { data_by_test.map(([name, data]) => (
-                    <div key={name}>
+                { data_by_test.map(({name, data}: { name: string, data: Dict<Dict<Benchmark>>}) => (
+                    <div className="chart-container" key={name}>
                         <h2>{name}</h2>
                         <Chart data={data} selectedDims={selectedDims} selectedTypes={selectedTypes} selectedLibs={selectedLibs} />
                     </div>
@@ -140,8 +174,9 @@ function App() {
     );
 }
 
-function Chart({data, selectedDims, selectedTypes, selectedLibs}) {
-    const selectedSeriesNames = cartesian(selectedLibs, selectedDims, selectedTypes).map((x => x.join(" ")));
+function Chart({data, selectedDims, selectedTypes, selectedLibs}: { data: Dict<Dict<Benchmark>>, selectedDims: string[], selectedTypes: string[], selectedLibs: string[] }) {
+    // @ts-ignore
+    const selectedSeriesNames = cartesian(selectedLibs, selectedDims, selectedTypes).map((x: string[]) => x.join(" "));
 
     return (
         <LineChart
@@ -160,7 +195,7 @@ function Chart({data, selectedDims, selectedTypes, selectedLibs}) {
             <YAxis scale="log" domain={[1, 'dataMax']} unit="ms"/>
             <Tooltip/>
             <Legend/>
-            { selectedSeriesNames.filter(x => !!data["100"][x]).map(name => (
+            { selectedSeriesNames.filter(x => !!data["100"][x]).map((name: string) => (
                 <Line
                     isAnimationActive={false}
                     key={data["100"][name].id}
