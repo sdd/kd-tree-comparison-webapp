@@ -11770,5 +11770,329 @@
       "upper_bound": 21626672.263,
       "unit": "ns"
     }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 2D f32/100",
+    "mean": {
+      "estimate": 404509.3402716773,
+      "lower_bound": 403658.2252585311,
+      "upper_bound": 405565.0123069122,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 2D f32/1000",
+    "mean": {
+      "estimate": 635063.147320087,
+      "lower_bound": 634049.6375830799,
+      "upper_bound": 636223.3899045647,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 2D f32/10000",
+    "mean": {
+      "estimate": 685900.586460982,
+      "lower_bound": 685199.0645888591,
+      "upper_bound": 686754.6669148689,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 2D f32/100000",
+    "mean": {
+      "estimate": 708414.0797921701,
+      "lower_bound": 707499.353582944,
+      "upper_bound": 709513.5776946682,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 2D f32/1000000",
+    "mean": {
+      "estimate": 737273.5083654899,
+      "lower_bound": 736323.4051834964,
+      "upper_bound": 738428.545948441,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 2D f32/10000000",
+    "mean": {
+      "estimate": 749718.3375853433,
+      "lower_bound": 748936.9441433881,
+      "upper_bound": 750662.4925735818,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 2D f64/100",
+    "mean": {
+      "estimate": 411718.8207970767,
+      "lower_bound": 410528.5765576298,
+      "upper_bound": 413215.0263244384,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 2D f64/1000",
+    "mean": {
+      "estimate": 639961.8137995645,
+      "lower_bound": 638792.2773892484,
+      "upper_bound": 641441.1552415304,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 2D f64/10000",
+    "mean": {
+      "estimate": 691359.2465449999,
+      "lower_bound": 690384.9598954607,
+      "upper_bound": 692551.7911531462,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 2D f64/100000",
+    "mean": {
+      "estimate": 720339.5349938477,
+      "lower_bound": 719658.4327970268,
+      "upper_bound": 721151.9861461968,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 2D f64/1000000",
+    "mean": {
+      "estimate": 739955.9276255012,
+      "lower_bound": 739064.7882900409,
+      "upper_bound": 741146.4502255057,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 2D f64/10000000",
+    "mean": {
+      "estimate": 759488.742616607,
+      "lower_bound": 758072.8814330673,
+      "upper_bound": 761250.6127052297,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 3D f32/100",
+    "mean": {
+      "estimate": 409018.4849177136,
+      "lower_bound": 408409.36719414475,
+      "upper_bound": 409711.3487638504,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 3D f32/1000",
+    "mean": {
+      "estimate": 707692.5637113787,
+      "lower_bound": 707077.2272207607,
+      "upper_bound": 708426.1825986764,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 3D f32/10000",
+    "mean": {
+      "estimate": 830993.6647393301,
+      "lower_bound": 829968.1638216608,
+      "upper_bound": 832387.4002750645,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 3D f32/100000",
+    "mean": {
+      "estimate": 904424.8997251632,
+      "lower_bound": 903461.1435894041,
+      "upper_bound": 905692.9391266493,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 3D f32/1000000",
+    "mean": {
+      "estimate": 965228.403467336,
+      "lower_bound": 964240.1321889745,
+      "upper_bound": 966439.7106931587,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 3D f32/10000000",
+    "mean": {
+      "estimate": 1040237.2228841743,
+      "lower_bound": 1032263.8968264505,
+      "upper_bound": 1053995.8798669712,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 3D f64/100",
+    "mean": {
+      "estimate": 415381.1711265706,
+      "lower_bound": 414756.2591030043,
+      "upper_bound": 416178.2008922058,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 3D f64/1000",
+    "mean": {
+      "estimate": 721603.717885522,
+      "lower_bound": 720612.5049992426,
+      "upper_bound": 722803.820591801,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 3D f64/10000",
+    "mean": {
+      "estimate": 852357.1473046277,
+      "lower_bound": 851572.9676252279,
+      "upper_bound": 853310.2477858533,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 3D f64/100000",
+    "mean": {
+      "estimate": 923951.4998402307,
+      "lower_bound": 922636.828286848,
+      "upper_bound": 925745.9902714196,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 3D f64/1000000",
+    "mean": {
+      "estimate": 986301.7797971574,
+      "lower_bound": 985022.7539845544,
+      "upper_bound": 987878.6765059247,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 3D f64/10000000",
+    "mean": {
+      "estimate": 1101327.4571400338,
+      "lower_bound": 1091305.2783946716,
+      "upper_bound": 1119374.1537712896,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 4D f32/100",
+    "mean": {
+      "estimate": 413621.303239502,
+      "lower_bound": 413152.6347421117,
+      "upper_bound": 414179.9865804602,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 4D f32/1000",
+    "mean": {
+      "estimate": 824839.9857818071,
+      "lower_bound": 824146.7935746808,
+      "upper_bound": 825675.1092232176,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 4D f32/10000",
+    "mean": {
+      "estimate": 1038362.8361237453,
+      "lower_bound": 1035743.4558493091,
+      "upper_bound": 1041423.8652483218,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 4D f32/100000",
+    "mean": {
+      "estimate": 1173306.4244815183,
+      "lower_bound": 1166789.0422583981,
+      "upper_bound": 1183372.695231114,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 4D f32/1000000",
+    "mean": {
+      "estimate": 1313687.7136634735,
+      "lower_bound": 1304364.32921211,
+      "upper_bound": 1329911.14526824,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 4D f32/10000000",
+    "mean": {
+      "estimate": 1699337.1752571147,
+      "lower_bound": 1689138.1342954377,
+      "upper_bound": 1716770.0406795898,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 4D f64/100",
+    "mean": {
+      "estimate": 418483.0266847456,
+      "lower_bound": 417421.81638512574,
+      "upper_bound": 419763.12868867593,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 4D f64/1000",
+    "mean": {
+      "estimate": 833320.3944619778,
+      "lower_bound": 831995.3209343156,
+      "upper_bound": 835030.7484308018,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 4D f64/10000",
+    "mean": {
+      "estimate": 1054462.4830163391,
+      "lower_bound": 1050721.5509835153,
+      "upper_bound": 1059550.2707781524,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 4D f64/100000",
+    "mean": {
+      "estimate": 1204593.6730991385,
+      "lower_bound": 1199570.4073759406,
+      "upper_bound": 1212430.747583465,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 4D f64/1000000",
+    "mean": {
+      "estimate": 1413051.9154796342,
+      "lower_bound": 1407050.4588678575,
+      "upper_bound": 1421042.5864780752,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v2 4D f64/10000000",
+    "mean": {
+      "estimate": 2175531.9439130435,
+      "lower_bound": 2173170.506141304,
+      "upper_bound": 2178327.8660434773,
+      "unit": "ns"
+    }
   }
 ]
