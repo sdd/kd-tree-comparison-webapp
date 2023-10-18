@@ -23,11 +23,13 @@ type RawBenchmark = {
 
 const raw_data: RawBenchmark[] = raw_data_untyped;
 
-const LIB_LIST = ['Kiddo_v2', 'Kiddo_v1', 'FNNTW', 'pykdtree', 'nabo', 'sklearn', 'scipy'];
+const LIB_LIST = ['Kiddo_v3_immutable','Kiddo_v3_std', 'Kiddo_v2', 'Kiddo_v1', 'FNNTW', 'pykdtree', 'nabo', 'sklearn', 'scipy'];
 
 const LIB_COLOUR_MAP: Dict<string> = {
-    'Kiddo_v2': 'red',
-    'Kiddo_v1': 'darkRed',
+    'Kiddo_v3_immutable': 'pink',
+    'Kiddo_v3_std': 'red',
+    'Kiddo_v2': 'darkRed',
+    'Kiddo_v1': 'brown',
     'FNNTW': 'orange',
     'pykdtree': 'green',
     'nabo': 'cyan',

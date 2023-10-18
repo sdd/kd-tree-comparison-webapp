@@ -73,3 +73,7 @@ button:focus-visible {
   padding: 10px;
   border: 1px solid;
 }
+
+h2 {
+  color: #777
+}
