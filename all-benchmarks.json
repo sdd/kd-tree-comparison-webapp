@@ -13581,276 +13581,6 @@
     }
   },
   {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 2D f64/100",
-    "mean": {
-      "estimate": 1758.6162859594267,
-      "lower_bound": 1752.9195057638817,
-      "upper_bound": 1764.2637699170652,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 2D f64/1000",
-    "mean": {
-      "estimate": 32239.73766731382,
-      "lower_bound": 32163.92029035245,
-      "upper_bound": 32314.464224561554,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 2D f64/10000",
-    "mean": {
-      "estimate": 536794.0307014716,
-      "lower_bound": 535666.5554896567,
-      "upper_bound": 538099.1179755856,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 2D f64/100000",
-    "mean": {
-      "estimate": 8702857.14,
-      "lower_bound": 8697105.606375001,
-      "upper_bound": 8708705.82591667,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 2D f64/1000000",
-    "mean": {
-      "estimate": 133093109.98,
-      "lower_bound": 132912670.508,
-      "upper_bound": 133275342.72875,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 2D f64/10000000",
-    "mean": {
-      "estimate": 3739735229.39,
-      "lower_bound": 3732997892.6664996,
-      "upper_bound": 3746413285.8597503,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 3D f64/100",
-    "mean": {
-      "estimate": 1816.7995340054351,
-      "lower_bound": 1815.529821446497,
-      "upper_bound": 1818.0134482540338,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 3D f64/1000",
-    "mean": {
-      "estimate": 30744.15619317903,
-      "lower_bound": 30731.03723853793,
-      "upper_bound": 30759.37649697705,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 3D f64/10000",
-    "mean": {
-      "estimate": 525403.9868435799,
-      "lower_bound": 524712.0505143021,
-      "upper_bound": 526561.387579645,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 3D f64/100000",
-    "mean": {
-      "estimate": 8291835.883333334,
-      "lower_bound": 8283805.083541667,
-      "upper_bound": 8300199.6035416685,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 3D f64/1000000",
-    "mean": {
-      "estimate": 161396329.08,
-      "lower_bound": 160860198.694,
-      "upper_bound": 161944236.91425002,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 3D f64/10000000",
-    "mean": {
-      "estimate": 4113521215.06,
-      "lower_bound": 4107907091.88925,
-      "upper_bound": 4119274593.9765,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 4D f64/100",
-    "mean": {
-      "estimate": 1831.648007580127,
-      "lower_bound": 1829.8819095898243,
-      "upper_bound": 1834.0515168952693,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 4D f64/1000",
-    "mean": {
-      "estimate": 31801.314112208416,
-      "lower_bound": 31788.13213917315,
-      "upper_bound": 31816.674634084582,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 4D f64/10000",
-    "mean": {
-      "estimate": 547023.6297067468,
-      "lower_bound": 546055.6193921458,
-      "upper_bound": 548698.1369831453,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 4D f64/100000",
-    "mean": {
-      "estimate": 8498018.287999999,
-      "lower_bound": 8490714.405849997,
-      "upper_bound": 8506486.370850004,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 4D f64/1000000",
-    "mean": {
-      "estimate": 189732778.89,
-      "lower_bound": 189071404.68225002,
-      "upper_bound": 190409542.39675,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 4D f64/10000000",
-    "mean": {
-      "estimate": 4369125248.18,
-      "lower_bound": 4362346764.54275,
-      "upper_bound": 4376080500.93,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 2D f32/100",
-    "mean": {
-      "estimate": 1661.2173667741797,
-      "lower_bound": 1660.598929445932,
-      "upper_bound": 1661.8907359674163,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 2D f32/1000",
-    "mean": {
-      "estimate": 31663.102850190833,
-      "lower_bound": 31648.91479393378,
-      "upper_bound": 31677.8026580162,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 2D f32/10000",
-    "mean": {
-      "estimate": 526405.8234388548,
-      "lower_bound": 526197.0959502555,
-      "upper_bound": 526608.9701009155,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 2D f32/100000",
-    "mean": {
-      "estimate": 7684755.009999998,
-      "lower_bound": 7680391.877607141,
-      "upper_bound": 7689057.977500002,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 3D f32/100",
-    "mean": {
-      "estimate": 1760.1879785125636,
-      "lower_bound": 1759.3768244539583,
-      "upper_bound": 1761.2584213834516,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 3D f32/1000",
-    "mean": {
-      "estimate": 31871.36702408409,
-      "lower_bound": 31845.117767983324,
-      "upper_bound": 31905.709796701474,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 3D f32/10000",
-    "mean": {
-      "estimate": 514235.0414750178,
-      "lower_bound": 513962.25220649183,
-      "upper_bound": 514549.05855335755,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 3D f32/100000",
-    "mean": {
-      "estimate": 8080823.770000001,
-      "lower_bound": 8074952.037708335,
-      "upper_bound": 8086840.018250002,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 4D f32/100",
-    "mean": {
-      "estimate": 1909.3930425026424,
-      "lower_bound": 1908.323773611751,
-      "upper_bound": 1910.6471545705922,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 4D f32/1000",
-    "mean": {
-      "estimate": 33212.03086547033,
-      "lower_bound": 33185.925448561175,
-      "upper_bound": 33243.23141199234,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 4D f32/10000",
-    "mean": {
-      "estimate": 542156.3416562465,
-      "lower_bound": 541873.685715383,
-      "upper_bound": 542466.26921487,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Add to Empty Tree/Kiddo_v5_immutable_dynamic 4D f32/100000",
-    "mean": {
-      "estimate": 8295103.223333332,
-      "lower_bound": 8288448.887374999,
-      "upper_bound": 8301905.1589583345,
-      "unit": "ns"
-    }
-  },
-  {
     "id": "Query Best 10/Kiddo_v3_immutable 2D f64/100",
     "mean": {
       "estimate": 44421.3488968354,
@@ -14525,276 +14255,7 @@
       "unit": "ns"
     }
   },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 2D f64/100",
-    "mean": {
-      "estimate": 43961.228881026356,
-      "lower_bound": 43614.70949460019,
-      "upper_bound": 44509.70747371355,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 2D f64/1000",
-    "mean": {
-      "estimate": 102977.66610833991,
-      "lower_bound": 100753.58411972735,
-      "upper_bound": 105687.32813165913,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 2D f64/10000",
-    "mean": {
-      "estimate": 440698.78652090474,
-      "lower_bound": 439386.26015471126,
-      "upper_bound": 442095.03384480625,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 2D f64/100000",
-    "mean": {
-      "estimate": 3084303.3952941187,
-      "lower_bound": 3077156.3618823527,
-      "upper_bound": 3092038.2625147062,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 2D f64/1000000",
-    "mean": {
-      "estimate": 27136571.735,
-      "lower_bound": 27105497.278500002,
-      "upper_bound": 27172439.542499997,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 2D f64/10000000",
-    "mean": {
-      "estimate": 1216738356.94,
-      "lower_bound": 1215040423.151,
-      "upper_bound": 1218467808.018,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 3D f64/100",
-    "mean": {
-      "estimate": 37948.416446794734,
-      "lower_bound": 37785.63536617801,
-      "upper_bound": 38110.19901763751,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 3D f64/1000",
-    "mean": {
-      "estimate": 86295.75021108566,
-      "lower_bound": 85899.87902389781,
-      "upper_bound": 86708.96676160503,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 3D f64/10000",
-    "mean": {
-      "estimate": 311048.6911657895,
-      "lower_bound": 309902.4852660884,
-      "upper_bound": 312378.9000254071,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 3D f64/100000",
-    "mean": {
-      "estimate": 1884133.0783074843,
-      "lower_bound": 1877959.5914515331,
-      "upper_bound": 1892762.3175912492,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 3D f64/1000000",
-    "mean": {
-      "estimate": 15389735.995,
-      "lower_bound": 15374162.6155,
-      "upper_bound": 15407201.2790625,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 3D f64/10000000",
-    "mean": {
-      "estimate": 751764817.27,
-      "lower_bound": 751066445.04925,
-      "upper_bound": 752484484.3085,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 4D f64/100",
-    "mean": {
-      "estimate": 35896.86774751815,
-      "lower_bound": 35690.34908766959,
-      "upper_bound": 36179.01041473582,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 4D f64/1000",
-    "mean": {
-      "estimate": 65785.78785954292,
-      "lower_bound": 65522.851419779305,
-      "upper_bound": 66069.840216323,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 4D f64/10000",
-    "mean": {
-      "estimate": 221486.1238799826,
-      "lower_bound": 220743.355377969,
-      "upper_bound": 222330.83058950774,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 4D f64/100000",
-    "mean": {
-      "estimate": 1135412.0993973867,
-      "lower_bound": 1129492.5625347835,
-      "upper_bound": 1143080.2068665703,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 4D f64/1000000",
-    "mean": {
-      "estimate": 9445322.148333335,
-      "lower_bound": 9423962.070291666,
-      "upper_bound": 9473144.096916668,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 4D f64/10000000",
-    "mean": {
-      "estimate": 380598301.78,
-      "lower_bound": 380267280.494,
-      "upper_bound": 380936655.22274995,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 2D f32/100",
-    "mean": {
-      "estimate": 43916.05975958811,
-      "lower_bound": 43654.82033425315,
-      "upper_bound": 44251.0943320271,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 2D f32/1000",
-    "mean": {
-      "estimate": 95333.8599104645,
-      "lower_bound": 94942.79238874384,
-      "upper_bound": 95734.47620281314,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 2D f32/10000",
-    "mean": {
-      "estimate": 437082.6510633661,
-      "lower_bound": 435352.9405177186,
-      "upper_bound": 439147.67366081773,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 2D f32/100000",
-    "mean": {
-      "estimate": 3018024.246470588,
-      "lower_bound": 3011019.7591617643,
-      "upper_bound": 3025839.783308823,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 3D f32/100",
-    "mean": {
-      "estimate": 37937.6045152181,
-      "lower_bound": 37757.57973424591,
-      "upper_bound": 38130.36094234887,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 3D f32/1000",
-    "mean": {
-      "estimate": 84098.17419787691,
-      "lower_bound": 83669.51919983233,
-      "upper_bound": 84562.85697179486,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 3D f32/10000",
-    "mean": {
-      "estimate": 311669.7478231477,
-      "lower_bound": 310212.0528283655,
-      "upper_bound": 313298.6661179435,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 3D f32/100000",
-    "mean": {
-      "estimate": 1831623.4305855944,
-      "lower_bound": 1828127.124626142,
-      "upper_bound": 1835382.0609082216,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 4D f32/100",
-    "mean": {
-      "estimate": 35815.60850662398,
-      "lower_bound": 35602.995032473635,
-      "upper_bound": 36104.826929674586,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 4D f32/1000",
-    "mean": {
-      "estimate": 65028.28167687238,
-      "lower_bound": 64659.90492240488,
-      "upper_bound": 65443.11477807154,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 4D f32/10000",
-    "mean": {
-      "estimate": 215448.4298406311,
-      "lower_bound": 214718.73101801105,
-      "upper_bound": 216252.65695574644,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Best 10/Kiddo_v5_immutable_dynamic 4D f32/100000",
-    "mean": {
-      "estimate": 1116981.5343389523,
-      "lower_bound": 1111955.5126440122,
-      "upper_bound": 1122975.8635562414,
-      "unit": "ns"
-    }
-  },
+
   {
     "id": "Query Nearest 100/Kiddo_v3_immutable 2D f64/100",
     "mean": {
@@ -16037,276 +15498,7 @@
       "unit": "ns"
     }
   },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 2D f64/100",
-    "mean": {
-      "estimate": 201392.4105334564,
-      "lower_bound": 200579.40466588055,
-      "upper_bound": 202263.5089359163,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 2D f64/1000",
-    "mean": {
-      "estimate": 345129.256317759,
-      "lower_bound": 343913.6257381016,
-      "upper_bound": 346484.2595174126,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 2D f64/10000",
-    "mean": {
-      "estimate": 363041.88126964105,
-      "lower_bound": 361751.8057813717,
-      "upper_bound": 364466.82529085776,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 2D f64/100000",
-    "mean": {
-      "estimate": 373892.5588654687,
-      "lower_bound": 371429.9371786925,
-      "upper_bound": 376949.2768901139,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 2D f64/1000000",
-    "mean": {
-      "estimate": 410658.54309265845,
-      "lower_bound": 408839.85317231616,
-      "upper_bound": 412900.3870602948,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 2D f64/10000000",
-    "mean": {
-      "estimate": 393751.6018127469,
-      "lower_bound": 392419.1701447116,
-      "upper_bound": 395145.20488311624,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 3D f64/100",
-    "mean": {
-      "estimate": 208390.43406572708,
-      "lower_bound": 207561.36897601088,
-      "upper_bound": 209280.79257534322,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 3D f64/1000",
-    "mean": {
-      "estimate": 388759.36334657134,
-      "lower_bound": 387439.17861865624,
-      "upper_bound": 390180.40857236553,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 3D f64/10000",
-    "mean": {
-      "estimate": 466770.8246127061,
-      "lower_bound": 463474.9433999577,
-      "upper_bound": 471100.45144607034,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 3D f64/100000",
-    "mean": {
-      "estimate": 519992.611340224,
-      "lower_bound": 518041.75512356317,
-      "upper_bound": 522098.515775932,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 3D f64/1000000",
-    "mean": {
-      "estimate": 550944.521085334,
-      "lower_bound": 548986.2632212394,
-      "upper_bound": 553110.6698628247,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 3D f64/10000000",
-    "mean": {
-      "estimate": 649697.1768147547,
-      "lower_bound": 645425.5524047742,
-      "upper_bound": 655423.6884658373,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 4D f64/100",
-    "mean": {
-      "estimate": 222109.73331614985,
-      "lower_bound": 221152.4278145036,
-      "upper_bound": 223145.15033789058,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 4D f64/1000",
-    "mean": {
-      "estimate": 488486.93920958834,
-      "lower_bound": 485627.26799994905,
-      "upper_bound": 492792.58997774473,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 4D f64/10000",
-    "mean": {
-      "estimate": 629572.6562482187,
-      "lower_bound": 627388.4584256108,
-      "upper_bound": 632073.4733988247,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 4D f64/100000",
-    "mean": {
-      "estimate": 715938.4758955115,
-      "lower_bound": 713984.704871563,
-      "upper_bound": 718104.7931907661,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 4D f64/1000000",
-    "mean": {
-      "estimate": 848425.0088761189,
-      "lower_bound": 845683.1895447834,
-      "upper_bound": 851469.507046551,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 4D f64/10000000",
-    "mean": {
-      "estimate": 1724674.6293015303,
-      "lower_bound": 1717233.9330175044,
-      "upper_bound": 1733195.081133506,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 2D f32/100",
-    "mean": {
-      "estimate": 184997.53405581604,
-      "lower_bound": 183872.3769856173,
-      "upper_bound": 186314.94731465032,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 2D f32/1000",
-    "mean": {
-      "estimate": 325905.71437738015,
-      "lower_bound": 324615.617143187,
-      "upper_bound": 327325.075290232,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 2D f32/10000",
-    "mean": {
-      "estimate": 343803.14645274356,
-      "lower_bound": 341978.3485049528,
-      "upper_bound": 346094.99637094897,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 2D f32/100000",
-    "mean": {
-      "estimate": 354635.72996892035,
-      "lower_bound": 352654.95102196635,
-      "upper_bound": 357131.7835624234,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 3D f32/100",
-    "mean": {
-      "estimate": 195348.75309579438,
-      "lower_bound": 194609.73686675925,
-      "upper_bound": 196159.80529373983,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 3D f32/1000",
-    "mean": {
-      "estimate": 366919.661002161,
-      "lower_bound": 365570.1938993401,
-      "upper_bound": 368546.01658831735,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 3D f32/10000",
-    "mean": {
-      "estimate": 439146.67235806695,
-      "lower_bound": 436552.8456969771,
-      "upper_bound": 442181.6649201309,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 3D f32/100000",
-    "mean": {
-      "estimate": 483547.88241694286,
-      "lower_bound": 482128.3386046419,
-      "upper_bound": 485124.00459878985,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 4D f32/100",
-    "mean": {
-      "estimate": 203226.5633861536,
-      "lower_bound": 202329.1904532654,
-      "upper_bound": 204223.09221224813,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 4D f32/1000",
-    "mean": {
-      "estimate": 451160.8418157007,
-      "lower_bound": 449440.2810316639,
-      "upper_bound": 453095.2915100199,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 4D f32/10000",
-    "mean": {
-      "estimate": 597573.1610409383,
-      "lower_bound": 595399.7765582488,
-      "upper_bound": 600000.3674958247,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 100/Kiddo_v5_immutable_dynamic 4D f32/100000",
-    "mean": {
-      "estimate": 680080.1513923242,
-      "lower_bound": 677920.8924799408,
-      "upper_bound": 682462.7233017031,
-      "unit": "ns"
-    }
-  },
+
   {
     "id": "Query nearest n within radius/Kiddo_v3_immutable 2D f64/100",
     "mean": {
@@ -17063,276 +16255,7 @@
       "unit": "ns"
     }
   },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 2D f64/100",
-    "mean": {
-      "estimate": 17790.74778037333,
-      "lower_bound": 17704.054952398517,
-      "upper_bound": 17884.331685925266,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 2D f64/1000",
-    "mean": {
-      "estimate": 19999.760472358477,
-      "lower_bound": 19913.71221107905,
-      "upper_bound": 20098.695259271324,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 2D f64/10000",
-    "mean": {
-      "estimate": 53345.62816750299,
-      "lower_bound": 53057.499667192365,
-      "upper_bound": 53765.749685971314,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 2D f64/100000",
-    "mean": {
-      "estimate": 55842.1985469028,
-      "lower_bound": 55359.463467599155,
-      "upper_bound": 56553.07964249555,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 2D f64/1000000",
-    "mean": {
-      "estimate": 59375.015438225564,
-      "lower_bound": 59130.19354087691,
-      "upper_bound": 59641.41710184798,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 2D f64/10000000",
-    "mean": {
-      "estimate": 580094.5758165731,
-      "lower_bound": 577849.9016759016,
-      "upper_bound": 582886.7454143002,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 3D f64/100",
-    "mean": {
-      "estimate": 17721.764271389617,
-      "lower_bound": 17618.816565960926,
-      "upper_bound": 17835.34181040382,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 3D f64/1000",
-    "mean": {
-      "estimate": 19125.997040123286,
-      "lower_bound": 19051.398175546175,
-      "upper_bound": 19209.53072482646,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 3D f64/10000",
-    "mean": {
-      "estimate": 26134.21761057746,
-      "lower_bound": 26026.545941622837,
-      "upper_bound": 26252.31140666425,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 3D f64/100000",
-    "mean": {
-      "estimate": 72675.10805591353,
-      "lower_bound": 72245.75683667551,
-      "upper_bound": 73325.42894988439,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 3D f64/1000000",
-    "mean": {
-      "estimate": 79560.2544247868,
-      "lower_bound": 78951.39570434263,
-      "upper_bound": 80475.63764621963,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 3D f64/10000000",
-    "mean": {
-      "estimate": 764000.359386881,
-      "lower_bound": 760962.7947637922,
-      "upper_bound": 767992.4358544969,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 4D f64/100",
-    "mean": {
-      "estimate": 17801.339279762622,
-      "lower_bound": 17718.153986559406,
-      "upper_bound": 17895.175058884714,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 4D f64/1000",
-    "mean": {
-      "estimate": 18809.865675357523,
-      "lower_bound": 18742.612767168997,
-      "upper_bound": 18889.387665696846,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 4D f64/10000",
-    "mean": {
-      "estimate": 20598.19335344105,
-      "lower_bound": 20474.616198665404,
-      "upper_bound": 20761.349337538133,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 4D f64/100000",
-    "mean": {
-      "estimate": 36232.66746875871,
-      "lower_bound": 36035.7334413413,
-      "upper_bound": 36493.48600960028,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 4D f64/1000000",
-    "mean": {
-      "estimate": 108620.36220456375,
-      "lower_bound": 108060.27795114083,
-      "upper_bound": 109291.08948069,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 4D f64/10000000",
-    "mean": {
-      "estimate": 1026101.3396635924,
-      "lower_bound": 1019805.3909940352,
-      "upper_bound": 1034277.6784358071,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 2D f32/100",
-    "mean": {
-      "estimate": 17965.822718480624,
-      "lower_bound": 17886.76587305422,
-      "upper_bound": 18064.385445519736,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 2D f32/1000",
-    "mean": {
-      "estimate": 19881.427162368553,
-      "lower_bound": 19812.545860410366,
-      "upper_bound": 19949.70703587482,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 2D f32/10000",
-    "mean": {
-      "estimate": 51064.722290862985,
-      "lower_bound": 50791.6820210949,
-      "upper_bound": 51368.54562317655,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 2D f32/100000",
-    "mean": {
-      "estimate": 52993.31845524814,
-      "lower_bound": 52742.78716959788,
-      "upper_bound": 53299.45326658492,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 3D f32/100",
-    "mean": {
-      "estimate": 17721.8388835574,
-      "lower_bound": 17608.434531668616,
-      "upper_bound": 17917.99527259294,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 3D f32/1000",
-    "mean": {
-      "estimate": 18745.777262965614,
-      "lower_bound": 18614.21738214572,
-      "upper_bound": 18938.577381834835,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 3D f32/10000",
-    "mean": {
-      "estimate": 24959.044118333193,
-      "lower_bound": 24732.191646575786,
-      "upper_bound": 25315.023213838595,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 3D f32/100000",
-    "mean": {
-      "estimate": 68466.31503696447,
-      "lower_bound": 68116.87154963559,
-      "upper_bound": 68843.86861630605,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 4D f32/100",
-    "mean": {
-      "estimate": 17820.126338009744,
-      "lower_bound": 17731.72169984644,
-      "upper_bound": 17946.21039382145,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 4D f32/1000",
-    "mean": {
-      "estimate": 18662.49713020395,
-      "lower_bound": 18579.781809481556,
-      "upper_bound": 18755.843346608446,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 4D f32/10000",
-    "mean": {
-      "estimate": 20554.68224104833,
-      "lower_bound": 20421.546635033617,
-      "upper_bound": 20757.02173807743,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius/Kiddo_v5_immutable_dynamic 4D f32/100000",
-    "mean": {
-      "estimate": 34520.411089014975,
-      "lower_bound": 34361.07340948679,
-      "upper_bound": 34709.49180930476,
-      "unit": "ns"
-    }
-  },
+
   {
     "id": "Query nearest n within radius unsorted/Kiddo_v3_immutable 2D f64/100",
     "mean": {
@@ -18089,276 +17012,7 @@
       "unit": "ns"
     }
   },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 2D f64/100",
-    "mean": {
-      "estimate": 17903.632512110562,
-      "lower_bound": 17791.559605452625,
-      "upper_bound": 18047.68935870083,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 2D f64/1000",
-    "mean": {
-      "estimate": 19669.262651250578,
-      "lower_bound": 19580.847544288008,
-      "upper_bound": 19758.36903647493,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 2D f64/10000",
-    "mean": {
-      "estimate": 52961.78250326521,
-      "lower_bound": 52738.151170510035,
-      "upper_bound": 53208.64274152939,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 2D f64/100000",
-    "mean": {
-      "estimate": 55485.6833022631,
-      "lower_bound": 55118.442912312064,
-      "upper_bound": 55953.75458264006,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 2D f64/1000000",
-    "mean": {
-      "estimate": 59568.74778992061,
-      "lower_bound": 59210.67884710906,
-      "upper_bound": 60016.06174684517,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 2D f64/10000000",
-    "mean": {
-      "estimate": 552583.5786414201,
-      "lower_bound": 549391.8688498469,
-      "upper_bound": 556648.6242295941,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 3D f64/100",
-    "mean": {
-      "estimate": 17974.582846137135,
-      "lower_bound": 17902.292651963508,
-      "upper_bound": 18057.879169941978,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 3D f64/1000",
-    "mean": {
-      "estimate": 19235.877675270698,
-      "lower_bound": 19159.48024911337,
-      "upper_bound": 19316.69074151121,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 3D f64/10000",
-    "mean": {
-      "estimate": 26183.180495156124,
-      "lower_bound": 25975.50361825134,
-      "upper_bound": 26526.457534498808,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 3D f64/100000",
-    "mean": {
-      "estimate": 72456.39065982989,
-      "lower_bound": 71941.98624256282,
-      "upper_bound": 73271.3596083807,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 3D f64/1000000",
-    "mean": {
-      "estimate": 76791.39430050507,
-      "lower_bound": 76413.19648024542,
-      "upper_bound": 77212.62122686836,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 3D f64/10000000",
-    "mean": {
-      "estimate": 746711.2927308013,
-      "lower_bound": 744037.9556625283,
-      "upper_bound": 749737.4028148854,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 4D f64/100",
-    "mean": {
-      "estimate": 17908.154902129158,
-      "lower_bound": 17839.66352665138,
-      "upper_bound": 17983.500847686475,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 4D f64/1000",
-    "mean": {
-      "estimate": 18798.47647282302,
-      "lower_bound": 18704.465133855272,
-      "upper_bound": 18901.049637202545,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 4D f64/10000",
-    "mean": {
-      "estimate": 20902.900958151473,
-      "lower_bound": 20795.124763526597,
-      "upper_bound": 21037.305619347444,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 4D f64/100000",
-    "mean": {
-      "estimate": 37064.61184724818,
-      "lower_bound": 36829.305188772836,
-      "upper_bound": 37363.383222529286,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 4D f64/1000000",
-    "mean": {
-      "estimate": 107720.74323369002,
-      "lower_bound": 107310.02589573864,
-      "upper_bound": 108161.33242900854,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 4D f64/10000000",
-    "mean": {
-      "estimate": 1024786.3432897762,
-      "lower_bound": 1018051.9906048683,
-      "upper_bound": 1033185.3993432939,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 2D f32/100",
-    "mean": {
-      "estimate": 17750.151962556294,
-      "lower_bound": 17663.80997330821,
-      "upper_bound": 17848.494465341526,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 2D f32/1000",
-    "mean": {
-      "estimate": 19839.422557213413,
-      "lower_bound": 19760.75611568609,
-      "upper_bound": 19917.197723026587,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 2D f32/10000",
-    "mean": {
-      "estimate": 52124.72110706091,
-      "lower_bound": 51842.3368040554,
-      "upper_bound": 52524.256446529165,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 2D f32/100000",
-    "mean": {
-      "estimate": 53699.93747565629,
-      "lower_bound": 53496.127906966496,
-      "upper_bound": 53951.8757926878,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 3D f32/100",
-    "mean": {
-      "estimate": 18088.786267138596,
-      "lower_bound": 18025.169820271425,
-      "upper_bound": 18164.930869336476,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 3D f32/1000",
-    "mean": {
-      "estimate": 18923.40682262256,
-      "lower_bound": 18819.534782774692,
-      "upper_bound": 19079.676829100117,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 3D f32/10000",
-    "mean": {
-      "estimate": 25688.534928731155,
-      "lower_bound": 25554.029360807555,
-      "upper_bound": 25828.657832064073,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 3D f32/100000",
-    "mean": {
-      "estimate": 70719.43749188009,
-      "lower_bound": 70452.26080923219,
-      "upper_bound": 70998.96979620424,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 4D f32/100",
-    "mean": {
-      "estimate": 18174.41757670764,
-      "lower_bound": 18010.46527169015,
-      "upper_bound": 18432.97144765085,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 4D f32/1000",
-    "mean": {
-      "estimate": 18813.187037079326,
-      "lower_bound": 18734.842514630225,
-      "upper_bound": 18895.368086884693,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 4D f32/10000",
-    "mean": {
-      "estimate": 20635.412867080624,
-      "lower_bound": 20535.136283456144,
-      "upper_bound": 20740.616754275838,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_dynamic 4D f32/100000",
-    "mean": {
-      "estimate": 34859.691218354266,
-      "lower_bound": 34595.1627121367,
-      "upper_bound": 35283.87460103555,
-      "unit": "ns"
-    }
-  },
+
   {
     "id": "Query Nearest 1/Kiddo_v3_immutable 2D f64/100",
     "mean": {
@@ -19115,276 +17769,7 @@
       "unit": "ns"
     }
   },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 2D f64/100",
-    "mean": {
-      "estimate": 32426.857764912,
-      "lower_bound": 32237.389076850424,
-      "upper_bound": 32685.729394199214,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 2D f64/1000",
-    "mean": {
-      "estimate": 36699.0012542351,
-      "lower_bound": 36504.737729519926,
-      "upper_bound": 36944.12763299406,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 2D f64/10000",
-    "mean": {
-      "estimate": 36198.69217548864,
-      "lower_bound": 36033.4812103373,
-      "upper_bound": 36379.05300908917,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 2D f64/100000",
-    "mean": {
-      "estimate": 39296.25354831172,
-      "lower_bound": 39125.177496210825,
-      "upper_bound": 39466.317124074034,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 2D f64/1000000",
-    "mean": {
-      "estimate": 42663.94238125393,
-      "lower_bound": 42391.13831704033,
-      "upper_bound": 43047.116388529226,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 2D f64/10000000",
-    "mean": {
-      "estimate": 45283.472283306895,
-      "lower_bound": 45070.35735417762,
-      "upper_bound": 45514.9952306553,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 3D f64/100",
-    "mean": {
-      "estimate": 33739.580677722035,
-      "lower_bound": 33549.87051909997,
-      "upper_bound": 33969.4870138061,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 3D f64/1000",
-    "mean": {
-      "estimate": 39499.85333858792,
-      "lower_bound": 39366.9602840865,
-      "upper_bound": 39639.74934635272,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 3D f64/10000",
-    "mean": {
-      "estimate": 39990.0036212691,
-      "lower_bound": 39828.48185374707,
-      "upper_bound": 40164.71751477767,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 3D f64/100000",
-    "mean": {
-      "estimate": 45320.53842490859,
-      "lower_bound": 44900.595891675825,
-      "upper_bound": 45888.6434158153,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 3D f64/1000000",
-    "mean": {
-      "estimate": 49797.70079603059,
-      "lower_bound": 49540.59788991385,
-      "upper_bound": 50102.08824707421,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 3D f64/10000000",
-    "mean": {
-      "estimate": 52667.59042835958,
-      "lower_bound": 52443.10896482467,
-      "upper_bound": 52920.05485976118,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 4D f64/100",
-    "mean": {
-      "estimate": 35726.20812554646,
-      "lower_bound": 35533.50205845425,
-      "upper_bound": 35969.910080155896,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 4D f64/1000",
-    "mean": {
-      "estimate": 45994.612613362304,
-      "lower_bound": 45789.94817822303,
-      "upper_bound": 46227.18172699059,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 4D f64/10000",
-    "mean": {
-      "estimate": 49004.884246180554,
-      "lower_bound": 48667.03191637698,
-      "upper_bound": 49451.71329682971,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 4D f64/100000",
-    "mean": {
-      "estimate": 58151.98052208102,
-      "lower_bound": 57958.005392686406,
-      "upper_bound": 58350.58621498772,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 4D f64/1000000",
-    "mean": {
-      "estimate": 68485.2111539598,
-      "lower_bound": 68085.2340494291,
-      "upper_bound": 69009.15040020958,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 4D f64/10000000",
-    "mean": {
-      "estimate": 73477.69240548246,
-      "lower_bound": 73013.9158151348,
-      "upper_bound": 74022.92261527905,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 2D f32/100",
-    "mean": {
-      "estimate": 32523.327964643304,
-      "lower_bound": 32265.539233494754,
-      "upper_bound": 32934.404747879664,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 2D f32/1000",
-    "mean": {
-      "estimate": 36215.404287125566,
-      "lower_bound": 35904.82707240434,
-      "upper_bound": 36673.81819627663,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 2D f32/10000",
-    "mean": {
-      "estimate": 36252.58371813523,
-      "lower_bound": 36107.8964232066,
-      "upper_bound": 36424.50547659572,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 2D f32/100000",
-    "mean": {
-      "estimate": 38528.08130237155,
-      "lower_bound": 38370.89614286823,
-      "upper_bound": 38698.498617405894,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 3D f32/100",
-    "mean": {
-      "estimate": 33485.295798708175,
-      "lower_bound": 33334.00447784841,
-      "upper_bound": 33650.53907652587,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 3D f32/1000",
-    "mean": {
-      "estimate": 39787.41588674243,
-      "lower_bound": 39573.83228823723,
-      "upper_bound": 40021.301606580026,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 3D f32/10000",
-    "mean": {
-      "estimate": 39406.34649534162,
-      "lower_bound": 39215.9183243213,
-      "upper_bound": 39598.34096450532,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 3D f32/100000",
-    "mean": {
-      "estimate": 43747.70906939779,
-      "lower_bound": 43542.032369413566,
-      "upper_bound": 43988.68011380259,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 4D f32/100",
-    "mean": {
-      "estimate": 35698.76356240745,
-      "lower_bound": 35555.429959237335,
-      "upper_bound": 35844.086662318434,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 4D f32/1000",
-    "mean": {
-      "estimate": 45174.05152136231,
-      "lower_bound": 44979.10884162244,
-      "upper_bound": 45401.63936005885,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 4D f32/10000",
-    "mean": {
-      "estimate": 48704.17727622769,
-      "lower_bound": 48432.57262165019,
-      "upper_bound": 49024.15249281628,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query Nearest 1/Kiddo_v5_immutable_dynamic 4D f32/100000",
-    "mean": {
-      "estimate": 56016.437007675275,
-      "lower_bound": 55666.6441352988,
-      "upper_bound": 56450.36989744984,
-      "unit": "ns"
-    }
-  },
+
   {
     "id": "Query within radius/Kiddo_v3_immutable 2D f64/100",
     "mean": {
@@ -20138,276 +18523,6 @@
       "estimate": 1752925.0729656627,
       "lower_bound": 1747434.9017825588,
       "upper_bound": 1759114.696252912,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 2D f64/100",
-    "mean": {
-      "estimate": 17923.408633702606,
-      "lower_bound": 17801.40590276354,
-      "upper_bound": 18116.57197128426,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 2D f64/1000",
-    "mean": {
-      "estimate": 20929.334717934238,
-      "lower_bound": 20873.417913500492,
-      "upper_bound": 20988.618828314033,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 2D f64/10000",
-    "mean": {
-      "estimate": 57093.41005889652,
-      "lower_bound": 56876.20488524494,
-      "upper_bound": 57310.00398766985,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 2D f64/100000",
-    "mean": {
-      "estimate": 487186.52962865157,
-      "lower_bound": 484922.5459705166,
-      "upper_bound": 490114.3232262232,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 2D f64/1000000",
-    "mean": {
-      "estimate": 5318069.751999999,
-      "lower_bound": 5304419.537149999,
-      "upper_bound": 5333587.910349999,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 2D f64/10000000",
-    "mean": {
-      "estimate": 269142128.47,
-      "lower_bound": 268325584.732,
-      "upper_bound": 270041472.80025,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 3D f64/100",
-    "mean": {
-      "estimate": 17635.0963585205,
-      "lower_bound": 17525.368344889288,
-      "upper_bound": 17813.417274649728,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 3D f64/1000",
-    "mean": {
-      "estimate": 19249.974823735458,
-      "lower_bound": 19177.303210493646,
-      "upper_bound": 19327.276000221056,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 3D f64/10000",
-    "mean": {
-      "estimate": 24236.12708630913,
-      "lower_bound": 24050.63783582306,
-      "upper_bound": 24530.32000605703,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 3D f64/100000",
-    "mean": {
-      "estimate": 89747.68728976205,
-      "lower_bound": 89448.27366582766,
-      "upper_bound": 90045.63480199326,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 3D f64/1000000",
-    "mean": {
-      "estimate": 754678.0130953101,
-      "lower_bound": 751008.3339730455,
-      "upper_bound": 759237.0475703833,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 3D f64/10000000",
-    "mean": {
-      "estimate": 12762971.605,
-      "lower_bound": 12739508.6478125,
-      "upper_bound": 12786656.915125,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 4D f64/100",
-    "mean": {
-      "estimate": 17704.447927296846,
-      "lower_bound": 17633.30991676387,
-      "upper_bound": 17815.952135947413,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 4D f64/1000",
-    "mean": {
-      "estimate": 18466.10409429842,
-      "lower_bound": 18357.45839618598,
-      "upper_bound": 18589.70163770648,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 4D f64/10000",
-    "mean": {
-      "estimate": 21091.067524147456,
-      "lower_bound": 20959.699118504566,
-      "upper_bound": 21271.34843245825,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 4D f64/100000",
-    "mean": {
-      "estimate": 35008.21971905531,
-      "lower_bound": 34717.84439142299,
-      "upper_bound": 35443.82103973258,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 4D f64/1000000",
-    "mean": {
-      "estimate": 154651.31107806644,
-      "lower_bound": 153704.54889600218,
-      "upper_bound": 156168.75242992103,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 4D f64/10000000",
-    "mean": {
-      "estimate": 2612411.8775000004,
-      "lower_bound": 2604070.5099875014,
-      "upper_bound": 2621290.8667749995,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 2D f32/100",
-    "mean": {
-      "estimate": 17860.547851215415,
-      "lower_bound": 17791.789686900975,
-      "upper_bound": 17954.391475203403,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 2D f32/1000",
-    "mean": {
-      "estimate": 20611.550075528972,
-      "lower_bound": 20531.902644503145,
-      "upper_bound": 20698.758414114047,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 2D f32/10000",
-    "mean": {
-      "estimate": 50998.67724240375,
-      "lower_bound": 50658.28693431749,
-      "upper_bound": 51406.303584899535,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 2D f32/100000",
-    "mean": {
-      "estimate": 389658.0111997612,
-      "lower_bound": 387905.56520557107,
-      "upper_bound": 391936.05173914076,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 3D f32/100",
-    "mean": {
-      "estimate": 17583.78983000864,
-      "lower_bound": 17521.791894253674,
-      "upper_bound": 17648.863051988803,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 3D f32/1000",
-    "mean": {
-      "estimate": 18981.656628784287,
-      "lower_bound": 18876.01898688538,
-      "upper_bound": 19112.598422341634,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 3D f32/10000",
-    "mean": {
-      "estimate": 23309.516612789565,
-      "lower_bound": 23168.912027746042,
-      "upper_bound": 23499.873337571258,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 3D f32/100000",
-    "mean": {
-      "estimate": 79762.24129478818,
-      "lower_bound": 79402.031662208,
-      "upper_bound": 80173.05753842887,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 4D f32/100",
-    "mean": {
-      "estimate": 17423.87892005631,
-      "lower_bound": 17367.235506351586,
-      "upper_bound": 17494.325630326126,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 4D f32/1000",
-    "mean": {
-      "estimate": 18827.08049920048,
-      "lower_bound": 18746.451574504412,
-      "upper_bound": 18932.639797520984,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 4D f32/10000",
-    "mean": {
-      "estimate": 20407.243500284792,
-      "lower_bound": 20284.41696761356,
-      "upper_bound": 20585.989297394044,
-      "unit": "ns"
-    }
-  },
-  {
-    "id": "Query within radius/Kiddo_v5_immutable_dynamic 4D f32/100000",
-    "mean": {
-      "estimate": 34669.00964824963,
-      "lower_bound": 34524.45185218839,
-      "upper_bound": 34816.046517429975,
       "unit": "ns"
     }
   },
@@ -21168,272 +19283,3782 @@
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 2D f64/100",
+    "id": "Query Best 10/Kiddo_v5_immutable 2D f64/100",
     "mean": {
-      "estimate": 17910.82187878181,
-      "lower_bound": 17810.77065489261,
-      "upper_bound": 18036.874241034606,
+      "estimate": 43745.18267980512,
+      "lower_bound": 43453.08923140139,
+      "upper_bound": 44074.80238435629,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 2D f64/1000",
+    "id": "Query Best 10/Kiddo_v5_immutable 2D f64/1000",
     "mean": {
-      "estimate": 19801.566110513344,
-      "lower_bound": 19639.621661888737,
-      "upper_bound": 20066.288589560107,
+      "estimate": 108042.90112251358,
+      "lower_bound": 107581.70655871967,
+      "upper_bound": 108620.57654864663,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 2D f64/10000",
+    "id": "Query Best 10/Kiddo_v5_immutable 2D f64/10000",
     "mean": {
-      "estimate": 28656.895621937478,
-      "lower_bound": 28513.71788398739,
-      "upper_bound": 28843.20383614924,
+      "estimate": 553705.6154080745,
+      "lower_bound": 551823.1456519321,
+      "upper_bound": 555795.4128606273,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 2D f64/100000",
+    "id": "Query Best 10/Kiddo_v5_immutable 2D f64/100000",
     "mean": {
-      "estimate": 112133.17032179564,
-      "lower_bound": 110162.01455672606,
-      "upper_bound": 115749.81446341524,
+      "estimate": 4253816.618333336,
+      "lower_bound": 4246367.151916667,
+      "upper_bound": 4262533.623208334,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 2D f64/1000000",
+    "id": "Query Best 10/Kiddo_v5_immutable 2D f64/1000000",
     "mean": {
-      "estimate": 857023.6798779013,
-      "lower_bound": 852966.1071523998,
-      "upper_bound": 861677.2398000273,
+      "estimate": 38268037.51,
+      "lower_bound": 38228109.5085,
+      "upper_bound": 38315294.732125,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 2D f64/10000000",
+    "id": "Query Best 10/Kiddo_v5_immutable 2D f64/10000000",
     "mean": {
-      "estimate": 64937794.07,
-      "lower_bound": 64815117.01975,
-      "upper_bound": 65054512.512,
+      "estimate": 1139806519.79,
+      "lower_bound": 1138428369.0245,
+      "upper_bound": 1141188508.81325,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 3D f64/100",
+    "id": "Query Best 10/Kiddo_v5_immutable 3D f64/100",
     "mean": {
-      "estimate": 17610.53362758907,
-      "lower_bound": 17525.39055733692,
-      "upper_bound": 17713.566822584813,
+      "estimate": 37324.64314105196,
+      "lower_bound": 37058.539515872166,
+      "upper_bound": 37742.62896353321,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 3D f64/1000",
+    "id": "Query Best 10/Kiddo_v5_immutable 3D f64/1000",
     "mean": {
-      "estimate": 19094.12370451349,
-      "lower_bound": 19019.632598991804,
-      "upper_bound": 19180.095957583428,
+      "estimate": 84462.31445352272,
+      "lower_bound": 84062.11607356452,
+      "upper_bound": 84900.10423757654,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 3D f64/10000",
+    "id": "Query Best 10/Kiddo_v5_immutable 3D f64/10000",
     "mean": {
-      "estimate": 21924.252528999677,
-      "lower_bound": 21812.202095464556,
-      "upper_bound": 22045.1347077761,
+      "estimate": 340391.3111372829,
+      "lower_bound": 335284.78499807534,
+      "upper_bound": 346834.5305530022,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 3D f64/100000",
+    "id": "Query Best 10/Kiddo_v5_immutable 3D f64/100000",
     "mean": {
-      "estimate": 49683.00046044066,
-      "lower_bound": 49366.33536941007,
-      "upper_bound": 50195.51139571422,
+      "estimate": 2372226.9545454546,
+      "lower_bound": 2350685.0404886357,
+      "upper_bound": 2395151.6413977267,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 3D f64/1000000",
+    "id": "Query Best 10/Kiddo_v5_immutable 3D f64/1000000",
     "mean": {
-      "estimate": 255846.12529617344,
-      "lower_bound": 254815.1211948332,
-      "upper_bound": 256981.30503536764,
+      "estimate": 18541555.113333333,
+      "lower_bound": 18422484.99533334,
+      "upper_bound": 18664906.830083337,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 3D f64/10000000",
+    "id": "Query Best 10/Kiddo_v5_immutable 3D f64/10000000",
     "mean": {
-      "estimate": 9980544.490000002,
-      "lower_bound": 9957128.035550006,
-      "upper_bound": 10006050.220000006,
+      "estimate": 703654416.51,
+      "lower_bound": 702814494.8295,
+      "upper_bound": 704557312.5220001,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 4D f64/100",
+    "id": "Query Best 10/Kiddo_v5_immutable 4D f64/100",
     "mean": {
-      "estimate": 17784.870526432307,
-      "lower_bound": 17665.44192703983,
-      "upper_bound": 17936.85416748095,
+      "estimate": 35253.12190601541,
+      "lower_bound": 35003.884807594666,
+      "upper_bound": 35579.8444675907,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 4D f64/1000",
+    "id": "Query Best 10/Kiddo_v5_immutable 4D f64/1000",
     "mean": {
-      "estimate": 19171.457421873834,
-      "lower_bound": 18975.506656652076,
-      "upper_bound": 19462.83273219829,
+      "estimate": 62486.41687081381,
+      "lower_bound": 62096.40991831993,
+      "upper_bound": 63050.78749144579,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 4D f64/10000",
+    "id": "Query Best 10/Kiddo_v5_immutable 4D f64/10000",
     "mean": {
-      "estimate": 21018.500681263547,
-      "lower_bound": 20834.066237831656,
-      "upper_bound": 21317.95581766477,
+      "estimate": 202463.81458749893,
+      "lower_bound": 201791.45992943182,
+      "upper_bound": 203234.3554432148,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 4D f64/100000",
+    "id": "Query Best 10/Kiddo_v5_immutable 4D f64/100000",
     "mean": {
-      "estimate": 30585.115681664407,
-      "lower_bound": 30473.303455564692,
-      "upper_bound": 30700.706732764145,
+      "estimate": 1140682.9497094103,
+      "lower_bound": 1135841.6841650768,
+      "upper_bound": 1147168.434007656,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 4D f64/1000000",
+    "id": "Query Best 10/Kiddo_v5_immutable 4D f64/1000000",
     "mean": {
-      "estimate": 99471.337824888,
-      "lower_bound": 99018.76966904671,
-      "upper_bound": 99968.00483496179,
+      "estimate": 9897994.331666665,
+      "lower_bound": 9881832.150291666,
+      "upper_bound": 9915463.17891667,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 4D f64/10000000",
+    "id": "Query Best 10/Kiddo_v5_immutable 4D f64/10000000",
     "mean": {
-      "estimate": 2146748.084166667,
-      "lower_bound": 2121716.9413229157,
-      "upper_bound": 2174961.3214375,
+      "estimate": 368398060.57,
+      "lower_bound": 368109832.013,
+      "upper_bound": 368688943.06949997,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 2D f32/100",
+    "id": "Query Best 10/Kiddo_v5_immutable 2D f32/100",
     "mean": {
-      "estimate": 17772.851656067553,
-      "lower_bound": 17673.498071846145,
-      "upper_bound": 17879.934445235813,
+      "estimate": 43733.348251178075,
+      "lower_bound": 43536.295859056445,
+      "upper_bound": 43951.89788566945,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 2D f32/1000",
+    "id": "Query Best 10/Kiddo_v5_immutable 2D f32/1000",
     "mean": {
-      "estimate": 19796.889056748383,
-      "lower_bound": 19660.830771317207,
-      "upper_bound": 19999.882022308055,
+      "estimate": 106592.24219715178,
+      "lower_bound": 106210.56067498295,
+      "upper_bound": 106983.13749128996,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 2D f32/10000",
+    "id": "Query Best 10/Kiddo_v5_immutable 2D f32/10000",
     "mean": {
-      "estimate": 28767.88294832531,
-      "lower_bound": 28611.649688866157,
-      "upper_bound": 28954.789082072642,
+      "estimate": 550133.6717329745,
+      "lower_bound": 548439.9595352156,
+      "upper_bound": 552016.9328480018,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 2D f32/100000",
+    "id": "Query Best 10/Kiddo_v5_immutable 2D f32/100000",
     "mean": {
-      "estimate": 111175.66231019111,
-      "lower_bound": 110426.2265202339,
-      "upper_bound": 112246.333267817,
+      "estimate": 4356550.751666668,
+      "lower_bound": 4349728.224166666,
+      "upper_bound": 4364727.445500001,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 3D f32/100",
+    "id": "Query Best 10/Kiddo_v5_immutable 3D f32/100",
     "mean": {
-      "estimate": 17628.171458244975,
-      "lower_bound": 17557.23657694236,
-      "upper_bound": 17720.700586065002,
+      "estimate": 37218.189293296746,
+      "lower_bound": 36946.55259150092,
+      "upper_bound": 37600.35174206222,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 3D f32/1000",
+    "id": "Query Best 10/Kiddo_v5_immutable 3D f32/1000",
     "mean": {
-      "estimate": 18963.913705354134,
-      "lower_bound": 18845.30866397191,
-      "upper_bound": 19148.089624005006,
+      "estimate": 82905.20035382002,
+      "lower_bound": 82450.24865109567,
+      "upper_bound": 83430.19083335297,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 3D f32/10000",
+    "id": "Query Best 10/Kiddo_v5_immutable 3D f32/10000",
     "mean": {
-      "estimate": 21839.733631217525,
-      "lower_bound": 21756.218741424622,
-      "upper_bound": 21924.519764613073,
+      "estimate": 306383.61434184195,
+      "lower_bound": 305234.26754609146,
+      "upper_bound": 307868.754864558,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 3D f32/100000",
+    "id": "Query Best 10/Kiddo_v5_immutable 3D f32/100000",
     "mean": {
-      "estimate": 47980.30636135535,
-      "lower_bound": 47732.80216561349,
-      "upper_bound": 48293.15768812473,
+      "estimate": 1981953.2749916015,
+      "lower_bound": 1978241.9635958786,
+      "upper_bound": 1985907.2415868917,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 4D f32/100",
+    "id": "Query Best 10/Kiddo_v5_immutable 4D f32/100",
     "mean": {
-      "estimate": 17432.098348679046,
-      "lower_bound": 17345.697950566984,
-      "upper_bound": 17527.356102587175,
+      "estimate": 34955.29178102405,
+      "lower_bound": 34797.51413423067,
+      "upper_bound": 35134.981362911276,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 4D f32/1000",
+    "id": "Query Best 10/Kiddo_v5_immutable 4D f32/1000",
     "mean": {
-      "estimate": 18778.772472274846,
-      "lower_bound": 18657.577978949066,
-      "upper_bound": 18971.184595805662,
+      "estimate": 62001.17430335582,
+      "lower_bound": 61747.49016386792,
+      "upper_bound": 62282.299220625675,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 4D f32/10000",
+    "id": "Query Best 10/Kiddo_v5_immutable 4D f32/10000",
     "mean": {
-      "estimate": 20428.076093586675,
-      "lower_bound": 20324.808249377435,
-      "upper_bound": 20541.238139970847,
+      "estimate": 196890.1619127713,
+      "lower_bound": 196219.08471715555,
+      "upper_bound": 197766.50770902674,
       "unit": "ns"
     }
   },
   {
-    "id": "Query within radius unsorted/Kiddo_v5_immutable_dynamic 4D f32/100000",
+    "id": "Query Best 10/Kiddo_v5_immutable 4D f32/100000",
     "mean": {
-      "estimate": 30471.875299757874,
-      "lower_bound": 30296.527195872382,
-      "upper_bound": 30688.574144571216,
+      "estimate": 1012067.2181455115,
+      "lower_bound": 1005130.541992824,
+      "upper_bound": 1021066.12511203,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 2D f64/100",
+    "mean": {
+      "estimate": 196815.7085357377,
+      "lower_bound": 195729.52634838325,
+      "upper_bound": 198188.17048232284,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 2D f64/1000",
+    "mean": {
+      "estimate": 355563.0514913831,
+      "lower_bound": 353705.0203453231,
+      "upper_bound": 358213.9286574132,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 2D f64/10000",
+    "mean": {
+      "estimate": 370573.5208786854,
+      "lower_bound": 369483.19087488484,
+      "upper_bound": 371716.3812441018,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 2D f64/100000",
+    "mean": {
+      "estimate": 383593.5043243665,
+      "lower_bound": 382427.23247412086,
+      "upper_bound": 384872.7293379098,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 2D f64/1000000",
+    "mean": {
+      "estimate": 422380.06090589904,
+      "lower_bound": 420062.5694873456,
+      "upper_bound": 425042.45153887145,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 2D f64/10000000",
+    "mean": {
+      "estimate": 402494.6347755112,
+      "lower_bound": 400827.0144982132,
+      "upper_bound": 404268.88191816374,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 3D f64/100",
+    "mean": {
+      "estimate": 206672.4721386405,
+      "lower_bound": 205619.19820327312,
+      "upper_bound": 207859.0406509396,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 3D f64/1000",
+    "mean": {
+      "estimate": 409166.54846005724,
+      "lower_bound": 407116.41748142324,
+      "upper_bound": 411379.3797522747,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 3D f64/10000",
+    "mean": {
+      "estimate": 484370.2459806835,
+      "lower_bound": 482519.6340838479,
+      "upper_bound": 486474.92464994785,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 3D f64/100000",
+    "mean": {
+      "estimate": 542693.753467211,
+      "lower_bound": 540440.097701201,
+      "upper_bound": 545278.5970853984,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 3D f64/1000000",
+    "mean": {
+      "estimate": 576456.9684018007,
+      "lower_bound": 574385.7457730883,
+      "upper_bound": 579012.3885110449,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 3D f64/10000000",
+    "mean": {
+      "estimate": 661819.0898292662,
+      "lower_bound": 658433.4035699012,
+      "upper_bound": 665910.4767041102,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 4D f64/100",
+    "mean": {
+      "estimate": 214757.17054557972,
+      "lower_bound": 213988.148005755,
+      "upper_bound": 215609.02284935664,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 4D f64/1000",
+    "mean": {
+      "estimate": 524806.5673864011,
+      "lower_bound": 523039.83981645096,
+      "upper_bound": 526661.6794673,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 4D f64/10000",
+    "mean": {
+      "estimate": 700149.3313756761,
+      "lower_bound": 697656.8497876627,
+      "upper_bound": 702950.7935886901,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 4D f64/100000",
+    "mean": {
+      "estimate": 791454.604089634,
+      "lower_bound": 789630.3192887692,
+      "upper_bound": 793549.3145155791,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 4D f64/1000000",
+    "mean": {
+      "estimate": 948011.866419836,
+      "lower_bound": 944058.6774843019,
+      "upper_bound": 953115.7693905135,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 4D f64/10000000",
+    "mean": {
+      "estimate": 1712087.7894208492,
+      "lower_bound": 1703998.2506384996,
+      "upper_bound": 1721857.3351724576,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 2D f32/100",
+    "mean": {
+      "estimate": 180418.96080520455,
+      "lower_bound": 179868.45211197066,
+      "upper_bound": 181000.40742087594,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 2D f32/1000",
+    "mean": {
+      "estimate": 339410.453583447,
+      "lower_bound": 338268.5506486111,
+      "upper_bound": 340710.2677643335,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 2D f32/10000",
+    "mean": {
+      "estimate": 358069.23077214934,
+      "lower_bound": 356260.597412518,
+      "upper_bound": 360050.4700674356,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 2D f32/100000",
+    "mean": {
+      "estimate": 367232.39740270836,
+      "lower_bound": 365979.1062110701,
+      "upper_bound": 368585.7188871309,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 3D f32/100",
+    "mean": {
+      "estimate": 193126.3697990371,
+      "lower_bound": 192027.42645741242,
+      "upper_bound": 194641.445624184,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 3D f32/1000",
+    "mean": {
+      "estimate": 387324.9303843175,
+      "lower_bound": 385582.18638392986,
+      "upper_bound": 389192.7059514413,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 3D f32/10000",
+    "mean": {
+      "estimate": 468469.2821231934,
+      "lower_bound": 466741.3655829273,
+      "upper_bound": 470505.35319599754,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 3D f32/100000",
+    "mean": {
+      "estimate": 525422.9785672495,
+      "lower_bound": 522455.5213961678,
+      "upper_bound": 529431.3603888499,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 4D f32/100",
+    "mean": {
+      "estimate": 201344.17717202994,
+      "lower_bound": 200517.19008897565,
+      "upper_bound": 202252.15754096434,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 4D f32/1000",
+    "mean": {
+      "estimate": 508073.2313032186,
+      "lower_bound": 506069.5267599894,
+      "upper_bound": 510251.4586193188,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 4D f32/10000",
+    "mean": {
+      "estimate": 672673.511241361,
+      "lower_bound": 670449.6203306884,
+      "upper_bound": 675674.9258392018,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable 4D f32/100000",
+    "mean": {
+      "estimate": 772564.7133933214,
+      "lower_bound": 770428.866702674,
+      "upper_bound": 775125.1890822237,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 2D f64/100",
+    "mean": {
+      "estimate": 17945.954684222877,
+      "lower_bound": 17814.67002184693,
+      "upper_bound": 18160.157006740916,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 2D f64/1000",
+    "mean": {
+      "estimate": 20079.376081547794,
+      "lower_bound": 19953.91014267354,
+      "upper_bound": 20249.927735955654,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 2D f64/10000",
+    "mean": {
+      "estimate": 53807.929871807675,
+      "lower_bound": 53447.22301118934,
+      "upper_bound": 54335.367589700916,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 2D f64/100000",
+    "mean": {
+      "estimate": 54394.085519968874,
+      "lower_bound": 54133.17920435295,
+      "upper_bound": 54686.248328588554,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 2D f64/1000000",
+    "mean": {
+      "estimate": 57755.67184597216,
+      "lower_bound": 57418.94274232857,
+      "upper_bound": 58143.20177188902,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 2D f64/10000000",
+    "mean": {
+      "estimate": 557924.3224069413,
+      "lower_bound": 555615.2606804605,
+      "upper_bound": 560711.6862638235,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 3D f64/100",
+    "mean": {
+      "estimate": 17934.3969364597,
+      "lower_bound": 17848.553338656122,
+      "upper_bound": 18049.122496217555,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 3D f64/1000",
+    "mean": {
+      "estimate": 18838.133406292935,
+      "lower_bound": 18732.339597911898,
+      "upper_bound": 18984.489217890616,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 3D f64/10000",
+    "mean": {
+      "estimate": 24637.838575619186,
+      "lower_bound": 24452.609719947555,
+      "upper_bound": 24896.193409359443,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 3D f64/100000",
+    "mean": {
+      "estimate": 70488.8281957141,
+      "lower_bound": 69658.11785433725,
+      "upper_bound": 71776.1924446921,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 3D f64/1000000",
+    "mean": {
+      "estimate": 76060.75341689569,
+      "lower_bound": 75771.3443243598,
+      "upper_bound": 76369.80570217877,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 3D f64/10000000",
+    "mean": {
+      "estimate": 717550.3403381315,
+      "lower_bound": 709646.4444944866,
+      "upper_bound": 730774.9631010855,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 4D f64/100",
+    "mean": {
+      "estimate": 18083.02783249361,
+      "lower_bound": 17981.426401561093,
+      "upper_bound": 18246.228513145288,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 4D f64/1000",
+    "mean": {
+      "estimate": 18877.799036318305,
+      "lower_bound": 18787.61091672868,
+      "upper_bound": 18982.244520944198,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 4D f64/10000",
+    "mean": {
+      "estimate": 20785.00817218346,
+      "lower_bound": 20572.928428814655,
+      "upper_bound": 21100.851543573135,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 4D f64/100000",
+    "mean": {
+      "estimate": 35162.06359428344,
+      "lower_bound": 34981.12832655767,
+      "upper_bound": 35360.13488145519,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 4D f64/1000000",
+    "mean": {
+      "estimate": 103771.9986150237,
+      "lower_bound": 102965.47375139655,
+      "upper_bound": 104884.66189691388,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 4D f64/10000000",
+    "mean": {
+      "estimate": 1012409.3356730863,
+      "lower_bound": 999803.0990713275,
+      "upper_bound": 1030492.3214708038,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 2D f32/100",
+    "mean": {
+      "estimate": 17865.79153564275,
+      "lower_bound": 17790.31619573513,
+      "upper_bound": 17945.916185162157,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 2D f32/1000",
+    "mean": {
+      "estimate": 19788.659867582104,
+      "lower_bound": 19679.587312083953,
+      "upper_bound": 19901.616135681834,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 2D f32/10000",
+    "mean": {
+      "estimate": 49280.86147190777,
+      "lower_bound": 48833.55450365375,
+      "upper_bound": 49835.87611959149,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 2D f32/100000",
+    "mean": {
+      "estimate": 50866.01932111107,
+      "lower_bound": 50524.78645008778,
+      "upper_bound": 51236.36225022821,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 3D f32/100",
+    "mean": {
+      "estimate": 17656.760449630314,
+      "lower_bound": 17586.146023099278,
+      "upper_bound": 17757.369892026218,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 3D f32/1000",
+    "mean": {
+      "estimate": 18607.299269300674,
+      "lower_bound": 18533.993984570676,
+      "upper_bound": 18692.580176500025,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 3D f32/10000",
+    "mean": {
+      "estimate": 25174.086378880267,
+      "lower_bound": 24866.447669333444,
+      "upper_bound": 25597.155935967392,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 3D f32/100000",
+    "mean": {
+      "estimate": 66526.69538644364,
+      "lower_bound": 66097.66700490941,
+      "upper_bound": 67120.0251642807,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 4D f32/100",
+    "mean": {
+      "estimate": 17743.604668043467,
+      "lower_bound": 17671.530481490387,
+      "upper_bound": 17817.675484392956,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 4D f32/1000",
+    "mean": {
+      "estimate": 18783.718023401227,
+      "lower_bound": 18663.83947417196,
+      "upper_bound": 18978.57793720164,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 4D f32/10000",
+    "mean": {
+      "estimate": 20561.098675229772,
+      "lower_bound": 20476.842170231466,
+      "upper_bound": 20657.390355065152,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable 4D f32/100000",
+    "mean": {
+      "estimate": 32199.055204973225,
+      "lower_bound": 31989.578480429336,
+      "upper_bound": 32442.10381046988,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 2D f64/100",
+    "mean": {
+      "estimate": 17610.470948014794,
+      "lower_bound": 17506.703118016092,
+      "upper_bound": 17734.39023143066,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 2D f64/1000",
+    "mean": {
+      "estimate": 19919.969302416812,
+      "lower_bound": 19737.746636049786,
+      "upper_bound": 20159.94448903231,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 2D f64/10000",
+    "mean": {
+      "estimate": 51682.6179914235,
+      "lower_bound": 50881.19535287851,
+      "upper_bound": 52836.43775171744,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 2D f64/100000",
+    "mean": {
+      "estimate": 55341.21406649961,
+      "lower_bound": 54759.72252998121,
+      "upper_bound": 56140.73835810775,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 2D f64/1000000",
+    "mean": {
+      "estimate": 59142.80746201794,
+      "lower_bound": 58784.00083314819,
+      "upper_bound": 59562.77180122187,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 2D f64/10000000",
+    "mean": {
+      "estimate": 566812.6401537546,
+      "lower_bound": 561673.5204621253,
+      "upper_bound": 575274.1274049364,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 3D f64/100",
+    "mean": {
+      "estimate": 17829.655960539152,
+      "lower_bound": 17743.07791347771,
+      "upper_bound": 17916.021993017468,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 3D f64/1000",
+    "mean": {
+      "estimate": 18932.038887009094,
+      "lower_bound": 18866.654025162952,
+      "upper_bound": 19007.110527571112,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 3D f64/10000",
+    "mean": {
+      "estimate": 25008.467628701106,
+      "lower_bound": 24860.021677818073,
+      "upper_bound": 25196.211420690444,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 3D f64/100000",
+    "mean": {
+      "estimate": 70741.86380239496,
+      "lower_bound": 69926.61788787873,
+      "upper_bound": 71894.50452149595,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 3D f64/1000000",
+    "mean": {
+      "estimate": 75246.47575525173,
+      "lower_bound": 74858.35060685787,
+      "upper_bound": 75646.6788624333,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 3D f64/10000000",
+    "mean": {
+      "estimate": 738332.8582173863,
+      "lower_bound": 735552.2208556072,
+      "upper_bound": 741831.5175940753,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 4D f64/100",
+    "mean": {
+      "estimate": 17646.234256049513,
+      "lower_bound": 17563.04596762661,
+      "upper_bound": 17738.83946423372,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 4D f64/1000",
+    "mean": {
+      "estimate": 18693.129276965825,
+      "lower_bound": 18588.086031136634,
+      "upper_bound": 18832.43115661477,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 4D f64/10000",
+    "mean": {
+      "estimate": 20859.82710563687,
+      "lower_bound": 20688.14743661441,
+      "upper_bound": 21127.225311296672,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 4D f64/100000",
+    "mean": {
+      "estimate": 34247.88156632667,
+      "lower_bound": 33994.04584869467,
+      "upper_bound": 34556.014230516856,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 4D f64/1000000",
+    "mean": {
+      "estimate": 103152.00226342477,
+      "lower_bound": 102369.65011520653,
+      "upper_bound": 104180.53901968026,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 4D f64/10000000",
+    "mean": {
+      "estimate": 984693.0201628915,
+      "lower_bound": 978301.5994771299,
+      "upper_bound": 993459.0869557486,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 2D f32/100",
+    "mean": {
+      "estimate": 17957.66568966224,
+      "lower_bound": 17881.494822467972,
+      "upper_bound": 18056.33359581895,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 2D f32/1000",
+    "mean": {
+      "estimate": 19989.853982737433,
+      "lower_bound": 19835.69707164773,
+      "upper_bound": 20236.015498133114,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 2D f32/10000",
+    "mean": {
+      "estimate": 49861.92818518527,
+      "lower_bound": 49335.15400062579,
+      "upper_bound": 50572.80205909183,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 2D f32/100000",
+    "mean": {
+      "estimate": 52037.743033170445,
+      "lower_bound": 51525.99361663683,
+      "upper_bound": 52755.7682806489,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 3D f32/100",
+    "mean": {
+      "estimate": 17712.701840620353,
+      "lower_bound": 17594.975450329744,
+      "upper_bound": 17902.249296692436,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 3D f32/1000",
+    "mean": {
+      "estimate": 18853.76758975388,
+      "lower_bound": 18775.39300745974,
+      "upper_bound": 18942.557560506688,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 3D f32/10000",
+    "mean": {
+      "estimate": 24166.446636967987,
+      "lower_bound": 23943.74735863378,
+      "upper_bound": 24503.348420928804,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 3D f32/100000",
+    "mean": {
+      "estimate": 67759.56957267216,
+      "lower_bound": 66901.91020404141,
+      "upper_bound": 69182.81445983604,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 4D f32/100",
+    "mean": {
+      "estimate": 17546.818181034116,
+      "lower_bound": 17496.275446083862,
+      "upper_bound": 17617.20712606015,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 4D f32/1000",
+    "mean": {
+      "estimate": 18422.94091781158,
+      "lower_bound": 18360.445525854593,
+      "upper_bound": 18485.29140700545,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 4D f32/10000",
+    "mean": {
+      "estimate": 20104.42754143523,
+      "lower_bound": 19928.7480111508,
+      "upper_bound": 20340.06905948948,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable 4D f32/100000",
+    "mean": {
+      "estimate": 31662.686857365505,
+      "lower_bound": 31229.966248042572,
+      "upper_bound": 32344.485895187197,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 2D f64/100",
+    "mean": {
+      "estimate": 31824.70761193901,
+      "lower_bound": 31660.25059796922,
+      "upper_bound": 32040.35275557353,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 2D f64/1000",
+    "mean": {
+      "estimate": 34110.31894473077,
+      "lower_bound": 33942.673013138374,
+      "upper_bound": 34292.91493419434,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 2D f64/10000",
+    "mean": {
+      "estimate": 35702.570251691475,
+      "lower_bound": 35533.74104607757,
+      "upper_bound": 35892.326195790854,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 2D f64/100000",
+    "mean": {
+      "estimate": 37961.7800190754,
+      "lower_bound": 37773.543528428134,
+      "upper_bound": 38197.751930543076,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 2D f64/1000000",
+    "mean": {
+      "estimate": 41429.01768743605,
+      "lower_bound": 41225.497869984356,
+      "upper_bound": 41725.61286306651,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 2D f64/10000000",
+    "mean": {
+      "estimate": 46363.8276722566,
+      "lower_bound": 46167.030693846515,
+      "upper_bound": 46588.00622319862,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 3D f64/100",
+    "mean": {
+      "estimate": 32957.31063982244,
+      "lower_bound": 32782.98237069955,
+      "upper_bound": 33175.92884696479,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 3D f64/1000",
+    "mean": {
+      "estimate": 37434.43250327508,
+      "lower_bound": 37273.30824415482,
+      "upper_bound": 37615.3342547466,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 3D f64/10000",
+    "mean": {
+      "estimate": 41760.10514044445,
+      "lower_bound": 41604.621882106796,
+      "upper_bound": 41927.58833667025,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 3D f64/100000",
+    "mean": {
+      "estimate": 45713.30361726583,
+      "lower_bound": 45475.81047221612,
+      "upper_bound": 45996.00077854966,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 3D f64/1000000",
+    "mean": {
+      "estimate": 50997.46375891723,
+      "lower_bound": 50632.832897198685,
+      "upper_bound": 51449.00194714393,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 3D f64/10000000",
+    "mean": {
+      "estimate": 60444.27447145122,
+      "lower_bound": 59698.58659939639,
+      "upper_bound": 61696.326612070225,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 4D f64/100",
+    "mean": {
+      "estimate": 34624.96076177611,
+      "lower_bound": 34511.59337665922,
+      "upper_bound": 34744.44183895977,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 4D f64/1000",
+    "mean": {
+      "estimate": 43325.636703117394,
+      "lower_bound": 43090.59724092081,
+      "upper_bound": 43603.017504793315,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 4D f64/10000",
+    "mean": {
+      "estimate": 52469.444788181834,
+      "lower_bound": 52270.35636251568,
+      "upper_bound": 52672.46727296479,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 4D f64/100000",
+    "mean": {
+      "estimate": 62461.04234037582,
+      "lower_bound": 62244.00376958958,
+      "upper_bound": 62695.794016065876,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 4D f64/1000000",
+    "mean": {
+      "estimate": 69803.31404864248,
+      "lower_bound": 69389.61440928052,
+      "upper_bound": 70277.76981091106,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 4D f64/10000000",
+    "mean": {
+      "estimate": 96836.46074894574,
+      "lower_bound": 96116.22131121486,
+      "upper_bound": 97736.9739764587,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 2D f32/100",
+    "mean": {
+      "estimate": 32015.156649559864,
+      "lower_bound": 31747.048796860516,
+      "upper_bound": 32370.72030247955,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 2D f32/1000",
+    "mean": {
+      "estimate": 34081.549378825875,
+      "lower_bound": 33893.50909991969,
+      "upper_bound": 34299.92854654207,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 2D f32/10000",
+    "mean": {
+      "estimate": 34662.19439685947,
+      "lower_bound": 34478.88404536612,
+      "upper_bound": 34863.24859497426,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 2D f32/100000",
+    "mean": {
+      "estimate": 37316.52947121803,
+      "lower_bound": 37081.55022369523,
+      "upper_bound": 37620.398732662696,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 3D f32/100",
+    "mean": {
+      "estimate": 33091.64700213409,
+      "lower_bound": 32911.84410634652,
+      "upper_bound": 33306.549215093815,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 3D f32/1000",
+    "mean": {
+      "estimate": 36435.882948994,
+      "lower_bound": 36256.85142285912,
+      "upper_bound": 36648.600924605846,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 3D f32/10000",
+    "mean": {
+      "estimate": 38392.524185102746,
+      "lower_bound": 38106.05859834007,
+      "upper_bound": 38851.240172861755,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 3D f32/100000",
+    "mean": {
+      "estimate": 41456.33510608041,
+      "lower_bound": 41203.51041074356,
+      "upper_bound": 41761.30962655237,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 4D f32/100",
+    "mean": {
+      "estimate": 34834.356943971325,
+      "lower_bound": 34661.777012042236,
+      "upper_bound": 35074.58106048677,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 4D f32/1000",
+    "mean": {
+      "estimate": 40994.86474701495,
+      "lower_bound": 40778.39327713359,
+      "upper_bound": 41283.51573826588,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 4D f32/10000",
+    "mean": {
+      "estimate": 44861.767670664936,
+      "lower_bound": 44668.67829208301,
+      "upper_bound": 45065.462687737774,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable 4D f32/100000",
+    "mean": {
+      "estimate": 51264.775671520016,
+      "lower_bound": 51034.305374635966,
+      "upper_bound": 51498.481942345396,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 2D f64/100",
+    "mean": {
+      "estimate": 17861.369916723303,
+      "lower_bound": 17810.711022654643,
+      "upper_bound": 17917.712511392816,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 2D f64/1000",
+    "mean": {
+      "estimate": 20783.766247598433,
+      "lower_bound": 20688.20733069665,
+      "upper_bound": 20889.98627644638,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 2D f64/10000",
+    "mean": {
+      "estimate": 57185.40305515192,
+      "lower_bound": 56840.66243712166,
+      "upper_bound": 57576.82365134243,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 2D f64/100000",
+    "mean": {
+      "estimate": 486037.46401743905,
+      "lower_bound": 484283.9921360973,
+      "upper_bound": 487947.3215535164,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 2D f64/1000000",
+    "mean": {
+      "estimate": 5447573.434000002,
+      "lower_bound": 5435416.382300001,
+      "upper_bound": 5460742.995625001,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 2D f64/10000000",
+    "mean": {
+      "estimate": 262216993.99,
+      "lower_bound": 261518878.429,
+      "upper_bound": 263018497.8675,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 3D f64/100",
+    "mean": {
+      "estimate": 17480.972339111453,
+      "lower_bound": 17419.334251841756,
+      "upper_bound": 17556.529453436975,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 3D f64/1000",
+    "mean": {
+      "estimate": 19013.244924130253,
+      "lower_bound": 18912.47623870103,
+      "upper_bound": 19123.179888950122,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 3D f64/10000",
+    "mean": {
+      "estimate": 24203.481654222236,
+      "lower_bound": 24098.167345265563,
+      "upper_bound": 24319.737976040342,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 3D f64/100000",
+    "mean": {
+      "estimate": 88896.37716852028,
+      "lower_bound": 88544.05784523794,
+      "upper_bound": 89258.9417028599,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 3D f64/1000000",
+    "mean": {
+      "estimate": 731260.9056042485,
+      "lower_bound": 728974.4536576214,
+      "upper_bound": 733714.6719759993,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 3D f64/10000000",
+    "mean": {
+      "estimate": 12251395.972000003,
+      "lower_bound": 12226501.777850002,
+      "upper_bound": 12277521.759049999,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 4D f64/100",
+    "mean": {
+      "estimate": 17637.02896643481,
+      "lower_bound": 17517.608198897677,
+      "upper_bound": 17835.701763659952,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 4D f64/1000",
+    "mean": {
+      "estimate": 18623.036099840516,
+      "lower_bound": 18554.736187004535,
+      "upper_bound": 18701.12528568981,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 4D f64/10000",
+    "mean": {
+      "estimate": 20866.75253597948,
+      "lower_bound": 20743.65216266879,
+      "upper_bound": 21020.45693789307,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 4D f64/100000",
+    "mean": {
+      "estimate": 32976.718636194724,
+      "lower_bound": 32748.148789448394,
+      "upper_bound": 33324.679873145375,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 4D f64/1000000",
+    "mean": {
+      "estimate": 143654.31753021793,
+      "lower_bound": 143064.5556215462,
+      "upper_bound": 144324.02871446093,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 4D f64/10000000",
+    "mean": {
+      "estimate": 2394989.7076190487,
+      "lower_bound": 2388554.2116785715,
+      "upper_bound": 2402021.0971547607,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 2D f32/100",
+    "mean": {
+      "estimate": 17749.57107555093,
+      "lower_bound": 17667.99089142043,
+      "upper_bound": 17848.792050958393,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 2D f32/1000",
+    "mean": {
+      "estimate": 20546.806129989007,
+      "lower_bound": 20446.598089871433,
+      "upper_bound": 20674.09258425295,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 2D f32/10000",
+    "mean": {
+      "estimate": 49021.14235808159,
+      "lower_bound": 48682.74596099589,
+      "upper_bound": 49515.219658711336,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 2D f32/100000",
+    "mean": {
+      "estimate": 378185.5994771418,
+      "lower_bound": 376588.3181708539,
+      "upper_bound": 380205.04461015784,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 3D f32/100",
+    "mean": {
+      "estimate": 17478.526682194944,
+      "lower_bound": 17390.05167359863,
+      "upper_bound": 17602.525486942235,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 3D f32/1000",
+    "mean": {
+      "estimate": 18826.3976007765,
+      "lower_bound": 18733.289893505997,
+      "upper_bound": 18944.431635396286,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 3D f32/10000",
+    "mean": {
+      "estimate": 23096.97428903767,
+      "lower_bound": 22912.667895369173,
+      "upper_bound": 23397.971657633687,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 3D f32/100000",
+    "mean": {
+      "estimate": 73965.20068592021,
+      "lower_bound": 73454.62697406973,
+      "upper_bound": 74781.9356350213,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 4D f32/100",
+    "mean": {
+      "estimate": 17434.064604023566,
+      "lower_bound": 17292.669441706443,
+      "upper_bound": 17675.23669858949,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 4D f32/1000",
+    "mean": {
+      "estimate": 18394.300718735834,
+      "lower_bound": 18288.557734797352,
+      "upper_bound": 18549.743160716025,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 4D f32/10000",
+    "mean": {
+      "estimate": 20323.02897835731,
+      "lower_bound": 20199.909598017617,
+      "upper_bound": 20486.98581579905,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable 4D f32/100000",
+    "mean": {
+      "estimate": 30253.290171083507,
+      "lower_bound": 30034.263428593367,
+      "upper_bound": 30594.964244089544,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 2D f64/100",
+    "mean": {
+      "estimate": 17820.799048608555,
+      "lower_bound": 17725.898195797738,
+      "upper_bound": 17932.364696193617,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 2D f64/1000",
+    "mean": {
+      "estimate": 19706.687462984228,
+      "lower_bound": 19624.71552979656,
+      "upper_bound": 19797.205650966225,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 2D f64/10000",
+    "mean": {
+      "estimate": 28365.873734337583,
+      "lower_bound": 28245.13045500835,
+      "upper_bound": 28494.25262163099,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 2D f64/100000",
+    "mean": {
+      "estimate": 107187.5944454404,
+      "lower_bound": 106416.35631450985,
+      "upper_bound": 108398.09094147569,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 2D f64/1000000",
+    "mean": {
+      "estimate": 827688.6585959825,
+      "lower_bound": 824097.0167219917,
+      "upper_bound": 832195.066546842,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 2D f64/10000000",
+    "mean": {
+      "estimate": 61217208.0,
+      "lower_bound": 61109812.9205,
+      "upper_bound": 61322217.86975,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 3D f64/100",
+    "mean": {
+      "estimate": 17513.992318955505,
+      "lower_bound": 17455.478763787105,
+      "upper_bound": 17575.58699203105,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 3D f64/1000",
+    "mean": {
+      "estimate": 18854.17913149486,
+      "lower_bound": 18743.853837027807,
+      "upper_bound": 18992.07184905109,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 3D f64/10000",
+    "mean": {
+      "estimate": 22027.887207148742,
+      "lower_bound": 21931.959085131864,
+      "upper_bound": 22157.307021488046,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 3D f64/100000",
+    "mean": {
+      "estimate": 48239.96523055298,
+      "lower_bound": 47959.91719244342,
+      "upper_bound": 48569.3079293545,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 3D f64/1000000",
+    "mean": {
+      "estimate": 248498.77541842632,
+      "lower_bound": 246806.41371721047,
+      "upper_bound": 250936.13237694622,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 3D f64/10000000",
+    "mean": {
+      "estimate": 9301761.505000003,
+      "lower_bound": 9281292.48975,
+      "upper_bound": 9323261.760541666,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 4D f64/100",
+    "mean": {
+      "estimate": 17375.21396547983,
+      "lower_bound": 17317.571554910053,
+      "upper_bound": 17433.416324799546,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 4D f64/1000",
+    "mean": {
+      "estimate": 18758.304416138737,
+      "lower_bound": 18673.828667012593,
+      "upper_bound": 18853.34552526864,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 4D f64/10000",
+    "mean": {
+      "estimate": 20547.119629276294,
+      "lower_bound": 20429.285588517476,
+      "upper_bound": 20692.185176185452,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 4D f64/100000",
+    "mean": {
+      "estimate": 30021.40658882888,
+      "lower_bound": 29781.59583382907,
+      "upper_bound": 30331.325469403113,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 4D f64/1000000",
+    "mean": {
+      "estimate": 94778.19037409029,
+      "lower_bound": 94407.694438243,
+      "upper_bound": 95162.50327250721,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 4D f64/10000000",
+    "mean": {
+      "estimate": 1910576.603352771,
+      "lower_bound": 1901868.6298213815,
+      "upper_bound": 1920665.7234242798,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 2D f32/100",
+    "mean": {
+      "estimate": 17820.067681755805,
+      "lower_bound": 17744.07603138751,
+      "upper_bound": 17918.257332735677,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 2D f32/1000",
+    "mean": {
+      "estimate": 19631.85949605964,
+      "lower_bound": 19521.149549808335,
+      "upper_bound": 19780.99595556553,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 2D f32/10000",
+    "mean": {
+      "estimate": 27521.827521297197,
+      "lower_bound": 27401.467047971517,
+      "upper_bound": 27641.585062734044,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 2D f32/100000",
+    "mean": {
+      "estimate": 104518.20093407661,
+      "lower_bound": 103905.7719955276,
+      "upper_bound": 105448.8574345923,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 3D f32/100",
+    "mean": {
+      "estimate": 17380.385708139835,
+      "lower_bound": 17298.193900640545,
+      "upper_bound": 17467.705707536228,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 3D f32/1000",
+    "mean": {
+      "estimate": 18687.566535816077,
+      "lower_bound": 18580.769045186706,
+      "upper_bound": 18824.02809937293,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 3D f32/10000",
+    "mean": {
+      "estimate": 21281.701902111312,
+      "lower_bound": 21181.431643206986,
+      "upper_bound": 21388.854893878695,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 3D f32/100000",
+    "mean": {
+      "estimate": 44244.48823516497,
+      "lower_bound": 44052.478665920935,
+      "upper_bound": 44450.6421065397,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 4D f32/100",
+    "mean": {
+      "estimate": 17423.42410695851,
+      "lower_bound": 17347.19333277884,
+      "upper_bound": 17503.86418232942,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 4D f32/1000",
+    "mean": {
+      "estimate": 18603.912108489218,
+      "lower_bound": 18525.87035018439,
+      "upper_bound": 18690.91915233219,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 4D f32/10000",
+    "mean": {
+      "estimate": 20355.40348381151,
+      "lower_bound": 20246.505249670157,
+      "upper_bound": 20475.690573215186,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable 4D f32/100000",
+    "mean": {
+      "estimate": 28946.564326389296,
+      "lower_bound": 28659.513042869556,
+      "upper_bound": 29373.079157921446,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 2D f64/100",
+    "mean": {
+      "estimate": 43625.94967941074,
+      "lower_bound": 43426.7913619787,
+      "upper_bound": 43846.340385835596,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 2D f64/1000",
+    "mean": {
+      "estimate": 107746.43096809956,
+      "lower_bound": 107242.55997379147,
+      "upper_bound": 108318.68605958454,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 2D f64/10000",
+    "mean": {
+      "estimate": 565246.1007505527,
+      "lower_bound": 563754.2782709615,
+      "upper_bound": 566905.1119541727,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 2D f64/100000",
+    "mean": {
+      "estimate": 4358718.616666665,
+      "lower_bound": 4351707.145770833,
+      "upper_bound": 4366823.281062499,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 2D f64/1000000",
+    "mean": {
+      "estimate": 39907460.61,
+      "lower_bound": 39856839.85175,
+      "upper_bound": 39966505.971374996,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 2D f64/10000000",
+    "mean": {
+      "estimate": 1243086969.58,
+      "lower_bound": 1241318183.37325,
+      "upper_bound": 1244950466.8,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 3D f64/100",
+    "mean": {
+      "estimate": 37384.485611264354,
+      "lower_bound": 37230.99053808663,
+      "upper_bound": 37539.7420929147,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 3D f64/1000",
+    "mean": {
+      "estimate": 86770.10076738114,
+      "lower_bound": 86367.68726762757,
+      "upper_bound": 87298.73571040404,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 3D f64/10000",
+    "mean": {
+      "estimate": 320034.4765575502,
+      "lower_bound": 319172.23712012434,
+      "upper_bound": 320971.7338830293,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 3D f64/100000",
+    "mean": {
+      "estimate": 2164918.6954166675,
+      "lower_bound": 2160145.698145834,
+      "upper_bound": 2170308.7604479175,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 3D f64/1000000",
+    "mean": {
+      "estimate": 18512042.389999997,
+      "lower_bound": 18485169.46166666,
+      "upper_bound": 18541869.868416663,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 3D f64/10000000",
+    "mean": {
+      "estimate": 742734867.36,
+      "lower_bound": 741966320.69825,
+      "upper_bound": 743500564.52,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 4D f64/100",
+    "mean": {
+      "estimate": 35685.33312745989,
+      "lower_bound": 35538.85859988481,
+      "upper_bound": 35850.5210590571,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 4D f64/1000",
+    "mean": {
+      "estimate": 63389.3026884327,
+      "lower_bound": 62930.911261036155,
+      "upper_bound": 64076.38254067485,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 4D f64/10000",
+    "mean": {
+      "estimate": 211769.2281893682,
+      "lower_bound": 210260.58438682003,
+      "upper_bound": 213729.39658524087,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 4D f64/100000",
+    "mean": {
+      "estimate": 1147965.1295609183,
+      "lower_bound": 1143955.8556435246,
+      "upper_bound": 1153315.8231943974,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 4D f64/1000000",
+    "mean": {
+      "estimate": 9928368.609999992,
+      "lower_bound": 9909963.857166668,
+      "upper_bound": 9949993.920458335,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 4D f64/10000000",
+    "mean": {
+      "estimate": 386519927.79,
+      "lower_bound": 386217288.65625,
+      "upper_bound": 386821795.40525,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 2D f32/100",
+    "mean": {
+      "estimate": 43581.260772902955,
+      "lower_bound": 43419.79279612824,
+      "upper_bound": 43749.14587049402,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 2D f32/1000",
+    "mean": {
+      "estimate": 105580.18717116225,
+      "lower_bound": 105097.28156673115,
+      "upper_bound": 106252.72963185297,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 2D f32/10000",
+    "mean": {
+      "estimate": 520427.7017784906,
+      "lower_bound": 519209.86596279044,
+      "upper_bound": 521740.93530058296,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 2D f32/100000",
+    "mean": {
+      "estimate": 4184429.645833335,
+      "lower_bound": 4177779.093166666,
+      "upper_bound": 4192156.292666666,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 3D f32/100",
+    "mean": {
+      "estimate": 36834.32062072234,
+      "lower_bound": 36662.50650912451,
+      "upper_bound": 37036.73529524359,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 3D f32/1000",
+    "mean": {
+      "estimate": 84598.41503705112,
+      "lower_bound": 84263.56627576932,
+      "upper_bound": 84958.17144912384,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 3D f32/10000",
+    "mean": {
+      "estimate": 302214.12562270527,
+      "lower_bound": 301220.70316866465,
+      "upper_bound": 303283.32974890445,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 3D f32/100000",
+    "mean": {
+      "estimate": 1971041.7120970946,
+      "lower_bound": 1966087.394815181,
+      "upper_bound": 1976969.8374902545,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 4D f32/100",
+    "mean": {
+      "estimate": 35146.4060052525,
+      "lower_bound": 34998.05005709965,
+      "upper_bound": 35304.42034222179,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 4D f32/1000",
+    "mean": {
+      "estimate": 61959.21612076368,
+      "lower_bound": 61692.04092809577,
+      "upper_bound": 62251.074793280015,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 4D f32/10000",
+    "mean": {
+      "estimate": 193501.72296618592,
+      "lower_bound": 192683.10966008206,
+      "upper_bound": 194553.96989809835,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Best 10/Kiddo_v5_immutable_mveb 4D f32/100000",
+    "mean": {
+      "estimate": 1013050.1500648223,
+      "lower_bound": 1008857.4450462955,
+      "upper_bound": 1018310.5052010416,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 2D f64/100",
+    "mean": {
+      "estimate": 194808.0531620793,
+      "lower_bound": 193623.15484682986,
+      "upper_bound": 196283.2014528409,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 2D f64/1000",
+    "mean": {
+      "estimate": 356777.075774396,
+      "lower_bound": 355586.39664858865,
+      "upper_bound": 358089.4300197274,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 2D f64/10000",
+    "mean": {
+      "estimate": 373711.24055052904,
+      "lower_bound": 371867.95770797576,
+      "upper_bound": 375840.4817806238,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 2D f64/100000",
+    "mean": {
+      "estimate": 384121.7871573541,
+      "lower_bound": 382416.2913735631,
+      "upper_bound": 386058.768653349,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 2D f64/1000000",
+    "mean": {
+      "estimate": 425738.4164044239,
+      "lower_bound": 424028.70045163925,
+      "upper_bound": 427726.3245697211,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 2D f64/10000000",
+    "mean": {
+      "estimate": 406158.82186408155,
+      "lower_bound": 404461.3108184062,
+      "upper_bound": 408258.6509179942,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 3D f64/100",
+    "mean": {
+      "estimate": 205737.39065653738,
+      "lower_bound": 204942.53320284555,
+      "upper_bound": 206594.9531494014,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 3D f64/1000",
+    "mean": {
+      "estimate": 411000.41337942856,
+      "lower_bound": 409420.88586985355,
+      "upper_bound": 412738.2799536734,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 3D f64/10000",
+    "mean": {
+      "estimate": 487481.9163932712,
+      "lower_bound": 485948.13082650653,
+      "upper_bound": 489133.7498938604,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 3D f64/100000",
+    "mean": {
+      "estimate": 545092.6541426108,
+      "lower_bound": 542840.6450745756,
+      "upper_bound": 547770.3992155914,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 3D f64/1000000",
+    "mean": {
+      "estimate": 584971.2588503126,
+      "lower_bound": 583274.2008158691,
+      "upper_bound": 586829.3302157797,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 3D f64/10000000",
+    "mean": {
+      "estimate": 669903.3339850777,
+      "lower_bound": 667203.9528954898,
+      "upper_bound": 673038.2061175179,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 4D f64/100",
+    "mean": {
+      "estimate": 214639.9517829757,
+      "lower_bound": 213579.2336255009,
+      "upper_bound": 215858.69876710334,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 4D f64/1000",
+    "mean": {
+      "estimate": 525076.5426709608,
+      "lower_bound": 523409.71020499605,
+      "upper_bound": 526938.8942839265,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 4D f64/10000",
+    "mean": {
+      "estimate": 694147.1448986775,
+      "lower_bound": 691553.1336961514,
+      "upper_bound": 697330.6637944232,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 4D f64/100000",
+    "mean": {
+      "estimate": 808216.9728265574,
+      "lower_bound": 806513.897184594,
+      "upper_bound": 810170.345877146,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 4D f64/1000000",
+    "mean": {
+      "estimate": 954198.6948086922,
+      "lower_bound": 951723.1579863471,
+      "upper_bound": 956866.1091155673,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 4D f64/10000000",
+    "mean": {
+      "estimate": 1808037.5789405238,
+      "lower_bound": 1798417.6701566146,
+      "upper_bound": 1821196.9234864933,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 2D f32/100",
+    "mean": {
+      "estimate": 185507.52560097515,
+      "lower_bound": 184791.90954975187,
+      "upper_bound": 186411.21403633064,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 2D f32/1000",
+    "mean": {
+      "estimate": 342678.3895548056,
+      "lower_bound": 341854.99167293374,
+      "upper_bound": 343590.0402413766,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 2D f32/10000",
+    "mean": {
+      "estimate": 362708.10928671673,
+      "lower_bound": 361040.3027931602,
+      "upper_bound": 364759.72550587985,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 2D f32/100000",
+    "mean": {
+      "estimate": 368768.46438894316,
+      "lower_bound": 367229.3868729398,
+      "upper_bound": 370615.8810284916,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 3D f32/100",
+    "mean": {
+      "estimate": 195724.32872069217,
+      "lower_bound": 194654.290597189,
+      "upper_bound": 197043.65845500145,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 3D f32/1000",
+    "mean": {
+      "estimate": 392282.2979841438,
+      "lower_bound": 390722.55658231967,
+      "upper_bound": 393965.30090575374,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 3D f32/10000",
+    "mean": {
+      "estimate": 476252.6386404163,
+      "lower_bound": 474791.5311816712,
+      "upper_bound": 477837.1717441603,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 3D f32/100000",
+    "mean": {
+      "estimate": 530860.1152978344,
+      "lower_bound": 529149.9950475697,
+      "upper_bound": 532721.141035071,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 4D f32/100",
+    "mean": {
+      "estimate": 203836.22253414805,
+      "lower_bound": 203094.00773923815,
+      "upper_bound": 204631.93309448782,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 4D f32/1000",
+    "mean": {
+      "estimate": 510968.0367947095,
+      "lower_bound": 508297.0849647398,
+      "upper_bound": 514153.8420635046,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 4D f32/10000",
+    "mean": {
+      "estimate": 675191.4165020954,
+      "lower_bound": 672954.726529907,
+      "upper_bound": 677940.841080128,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 100/Kiddo_v5_immutable_mveb 4D f32/100000",
+    "mean": {
+      "estimate": 786198.8906642998,
+      "lower_bound": 784493.3725306928,
+      "upper_bound": 788066.2138522724,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 2D f64/100",
+    "mean": {
+      "estimate": 17615.77258500616,
+      "lower_bound": 17532.20853248323,
+      "upper_bound": 17718.763176925204,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 2D f64/1000",
+    "mean": {
+      "estimate": 19988.596893701357,
+      "lower_bound": 19877.293038707932,
+      "upper_bound": 20122.598155660387,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 2D f64/10000",
+    "mean": {
+      "estimate": 52451.5930784799,
+      "lower_bound": 52228.33225325222,
+      "upper_bound": 52698.46773646041,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 2D f64/100000",
+    "mean": {
+      "estimate": 55576.81225630199,
+      "lower_bound": 55247.959604896496,
+      "upper_bound": 55952.26590073188,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 2D f64/1000000",
+    "mean": {
+      "estimate": 59562.245125016096,
+      "lower_bound": 59089.80131736967,
+      "upper_bound": 60266.22428955003,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 2D f64/10000000",
+    "mean": {
+      "estimate": 573766.8036355603,
+      "lower_bound": 572097.4280114528,
+      "upper_bound": 575712.9683191804,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 3D f64/100",
+    "mean": {
+      "estimate": 17786.090722252353,
+      "lower_bound": 17700.106555254413,
+      "upper_bound": 17899.955890231646,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 3D f64/1000",
+    "mean": {
+      "estimate": 18804.572621459403,
+      "lower_bound": 18704.041079226212,
+      "upper_bound": 18927.87159127398,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 3D f64/10000",
+    "mean": {
+      "estimate": 25318.046897315322,
+      "lower_bound": 25124.04333828655,
+      "upper_bound": 25573.484332043485,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 3D f64/100000",
+    "mean": {
+      "estimate": 70673.10324308247,
+      "lower_bound": 70096.2988475181,
+      "upper_bound": 71437.3105884378,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 3D f64/1000000",
+    "mean": {
+      "estimate": 76752.42847247036,
+      "lower_bound": 76020.74385041902,
+      "upper_bound": 77930.83121972122,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 3D f64/10000000",
+    "mean": {
+      "estimate": 732344.8479881943,
+      "lower_bound": 727176.482862655,
+      "upper_bound": 738854.1633311672,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 4D f64/100",
+    "mean": {
+      "estimate": 17643.944144345816,
+      "lower_bound": 17552.978738392634,
+      "upper_bound": 17774.239217123293,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 4D f64/1000",
+    "mean": {
+      "estimate": 18537.835014930042,
+      "lower_bound": 18452.360908493847,
+      "upper_bound": 18628.515331994684,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 4D f64/10000",
+    "mean": {
+      "estimate": 20942.97528903552,
+      "lower_bound": 20699.68274953004,
+      "upper_bound": 21325.299363399492,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 4D f64/100000",
+    "mean": {
+      "estimate": 36385.24566286307,
+      "lower_bound": 36025.406786542415,
+      "upper_bound": 36941.53894590712,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 4D f64/1000000",
+    "mean": {
+      "estimate": 99467.40816858556,
+      "lower_bound": 99115.77194245261,
+      "upper_bound": 99838.34168535887,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 4D f64/10000000",
+    "mean": {
+      "estimate": 1025420.4956347153,
+      "lower_bound": 1020130.7796960871,
+      "upper_bound": 1031644.9296997047,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 2D f32/100",
+    "mean": {
+      "estimate": 17893.718079841885,
+      "lower_bound": 17827.639566031372,
+      "upper_bound": 17975.32303600659,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 2D f32/1000",
+    "mean": {
+      "estimate": 20176.381877863754,
+      "lower_bound": 20061.217329623058,
+      "upper_bound": 20303.623815536026,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 2D f32/10000",
+    "mean": {
+      "estimate": 49512.14466224026,
+      "lower_bound": 49338.99388480906,
+      "upper_bound": 49689.81671834196,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 2D f32/100000",
+    "mean": {
+      "estimate": 51362.4216538165,
+      "lower_bound": 51092.74169723583,
+      "upper_bound": 51753.68726449009,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 3D f32/100",
+    "mean": {
+      "estimate": 17669.276156966796,
+      "lower_bound": 17601.264606356006,
+      "upper_bound": 17741.94716233747,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 3D f32/1000",
+    "mean": {
+      "estimate": 19077.27778613966,
+      "lower_bound": 18994.1853915536,
+      "upper_bound": 19172.20065990008,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 3D f32/10000",
+    "mean": {
+      "estimate": 24359.440031963048,
+      "lower_bound": 24228.375131216362,
+      "upper_bound": 24532.349941302604,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 3D f32/100000",
+    "mean": {
+      "estimate": 66467.07845316236,
+      "lower_bound": 66041.91126504114,
+      "upper_bound": 67026.8414046321,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 4D f32/100",
+    "mean": {
+      "estimate": 17628.69562349863,
+      "lower_bound": 17559.769811638675,
+      "upper_bound": 17712.453065846992,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 4D f32/1000",
+    "mean": {
+      "estimate": 18401.822071497707,
+      "lower_bound": 18302.563413012536,
+      "upper_bound": 18520.16452019697,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 4D f32/10000",
+    "mean": {
+      "estimate": 20311.150620958837,
+      "lower_bound": 20194.131563874835,
+      "upper_bound": 20436.319393162776,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius/Kiddo_v5_immutable_mveb 4D f32/100000",
+    "mean": {
+      "estimate": 32583.1808529038,
+      "lower_bound": 32382.89543537331,
+      "upper_bound": 32865.96568009185,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 2D f64/100",
+    "mean": {
+      "estimate": 17787.66057985856,
+      "lower_bound": 17691.07447236632,
+      "upper_bound": 17918.198894281693,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 2D f64/1000",
+    "mean": {
+      "estimate": 19969.030495025036,
+      "lower_bound": 19824.90327726646,
+      "upper_bound": 20148.74621838101,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 2D f64/10000",
+    "mean": {
+      "estimate": 50965.79179047427,
+      "lower_bound": 50441.34942351148,
+      "upper_bound": 51798.873720347045,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 2D f64/100000",
+    "mean": {
+      "estimate": 56739.3547298121,
+      "lower_bound": 56296.804475422825,
+      "upper_bound": 57338.054789994974,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 2D f64/1000000",
+    "mean": {
+      "estimate": 60164.835499698434,
+      "lower_bound": 59703.035165187604,
+      "upper_bound": 60818.68300316235,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 2D f64/10000000",
+    "mean": {
+      "estimate": 583674.7335776004,
+      "lower_bound": 581636.7564142392,
+      "upper_bound": 585964.2973347735,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 3D f64/100",
+    "mean": {
+      "estimate": 17856.085015566776,
+      "lower_bound": 17733.302620985924,
+      "upper_bound": 18026.26765465353,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 3D f64/1000",
+    "mean": {
+      "estimate": 18710.1453761512,
+      "lower_bound": 18628.881059868057,
+      "upper_bound": 18803.78844096069,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 3D f64/10000",
+    "mean": {
+      "estimate": 25303.313424129705,
+      "lower_bound": 25192.67433909009,
+      "upper_bound": 25423.7551522273,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 3D f64/100000",
+    "mean": {
+      "estimate": 70932.57981796257,
+      "lower_bound": 70385.87205130002,
+      "upper_bound": 71794.74569091338,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 3D f64/1000000",
+    "mean": {
+      "estimate": 77136.05057657338,
+      "lower_bound": 76783.47243206848,
+      "upper_bound": 77493.1770961129,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 3D f64/10000000",
+    "mean": {
+      "estimate": 739055.733655215,
+      "lower_bound": 735162.9020783264,
+      "upper_bound": 744267.0112269953,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 4D f64/100",
+    "mean": {
+      "estimate": 17775.89923071533,
+      "lower_bound": 17640.542952973112,
+      "upper_bound": 17955.443243521422,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 4D f64/1000",
+    "mean": {
+      "estimate": 19015.99623421188,
+      "lower_bound": 18893.724227088784,
+      "upper_bound": 19171.913165737573,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 4D f64/10000",
+    "mean": {
+      "estimate": 21060.767500636463,
+      "lower_bound": 20936.621747383713,
+      "upper_bound": 21201.40688697887,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 4D f64/100000",
+    "mean": {
+      "estimate": 34261.21909350665,
+      "lower_bound": 34058.3031393184,
+      "upper_bound": 34545.96106882303,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 4D f64/1000000",
+    "mean": {
+      "estimate": 106847.9828849303,
+      "lower_bound": 105372.84463951387,
+      "upper_bound": 108799.1901747263,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 4D f64/10000000",
+    "mean": {
+      "estimate": 1026062.5083097146,
+      "lower_bound": 1012822.6047440551,
+      "upper_bound": 1045897.5290229819,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 2D f32/100",
+    "mean": {
+      "estimate": 17897.865672188706,
+      "lower_bound": 17804.426137188468,
+      "upper_bound": 18012.474648401127,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 2D f32/1000",
+    "mean": {
+      "estimate": 20063.10643683307,
+      "lower_bound": 19900.096275750806,
+      "upper_bound": 20282.608169599695,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 2D f32/10000",
+    "mean": {
+      "estimate": 51078.78591600021,
+      "lower_bound": 50853.84421991981,
+      "upper_bound": 51310.18392333751,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 2D f32/100000",
+    "mean": {
+      "estimate": 51910.4652055416,
+      "lower_bound": 51602.15654079308,
+      "upper_bound": 52283.017395987015,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 3D f32/100",
+    "mean": {
+      "estimate": 17769.602559467294,
+      "lower_bound": 17689.658537850562,
+      "upper_bound": 17873.109726169496,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 3D f32/1000",
+    "mean": {
+      "estimate": 18974.77227402282,
+      "lower_bound": 18837.292760129472,
+      "upper_bound": 19159.14545937528,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 3D f32/10000",
+    "mean": {
+      "estimate": 24694.34392673792,
+      "lower_bound": 24582.817613298466,
+      "upper_bound": 24823.440668900166,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 3D f32/100000",
+    "mean": {
+      "estimate": 67126.0794005159,
+      "lower_bound": 66833.86648346354,
+      "upper_bound": 67452.20622551818,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 4D f32/100",
+    "mean": {
+      "estimate": 17760.774432644634,
+      "lower_bound": 17637.066889477082,
+      "upper_bound": 17946.551024789733,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 4D f32/1000",
+    "mean": {
+      "estimate": 18876.832346919855,
+      "lower_bound": 18764.898728524364,
+      "upper_bound": 19011.33720729614,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 4D f32/10000",
+    "mean": {
+      "estimate": 20566.881172532456,
+      "lower_bound": 20360.267065876593,
+      "upper_bound": 20853.47011666353,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query nearest n within radius unsorted/Kiddo_v5_immutable_mveb 4D f32/100000",
+    "mean": {
+      "estimate": 32294.406503505907,
+      "lower_bound": 31940.193365354477,
+      "upper_bound": 32833.74979013694,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 2D f64/100",
+    "mean": {
+      "estimate": 31937.360287232787,
+      "lower_bound": 31800.470696849407,
+      "upper_bound": 32105.76250324002,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 2D f64/1000",
+    "mean": {
+      "estimate": 35066.994284300694,
+      "lower_bound": 34915.716293763086,
+      "upper_bound": 35247.29362222774,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 2D f64/10000",
+    "mean": {
+      "estimate": 37011.083797539155,
+      "lower_bound": 36831.016352106126,
+      "upper_bound": 37216.4810094931,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 2D f64/100000",
+    "mean": {
+      "estimate": 39463.578402764186,
+      "lower_bound": 39235.76137160068,
+      "upper_bound": 39774.78061177899,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 2D f64/1000000",
+    "mean": {
+      "estimate": 42291.601574705324,
+      "lower_bound": 42084.8377259923,
+      "upper_bound": 42561.128285650775,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 2D f64/10000000",
+    "mean": {
+      "estimate": 46644.50605426683,
+      "lower_bound": 46416.57908637713,
+      "upper_bound": 46921.874159413965,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 3D f64/100",
+    "mean": {
+      "estimate": 33143.722598325585,
+      "lower_bound": 32978.63423250707,
+      "upper_bound": 33366.98644437961,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 3D f64/1000",
+    "mean": {
+      "estimate": 38375.80023188801,
+      "lower_bound": 38244.27324767794,
+      "upper_bound": 38511.71257654363,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 3D f64/10000",
+    "mean": {
+      "estimate": 43569.49245877848,
+      "lower_bound": 43368.02928666703,
+      "upper_bound": 43785.25898280284,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 3D f64/100000",
+    "mean": {
+      "estimate": 47130.85044096937,
+      "lower_bound": 46869.391942806695,
+      "upper_bound": 47432.02021298653,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 3D f64/1000000",
+    "mean": {
+      "estimate": 50981.09409418213,
+      "lower_bound": 50750.73861803971,
+      "upper_bound": 51232.04784186859,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 3D f64/10000000",
+    "mean": {
+      "estimate": 61676.27861150912,
+      "lower_bound": 61149.074716272175,
+      "upper_bound": 62389.17608000164,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 4D f64/100",
+    "mean": {
+      "estimate": 35029.50612402447,
+      "lower_bound": 34896.640061438615,
+      "upper_bound": 35175.65931498662,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 4D f64/1000",
+    "mean": {
+      "estimate": 43599.42456010497,
+      "lower_bound": 43400.91129979676,
+      "upper_bound": 43831.79512148948,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 4D f64/10000",
+    "mean": {
+      "estimate": 55379.21688284665,
+      "lower_bound": 55072.59427143122,
+      "upper_bound": 55778.83935459862,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 4D f64/100000",
+    "mean": {
+      "estimate": 63805.08046083381,
+      "lower_bound": 63565.99701540234,
+      "upper_bound": 64056.241472990405,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 4D f64/1000000",
+    "mean": {
+      "estimate": 72038.01992438722,
+      "lower_bound": 71650.87088289607,
+      "upper_bound": 72478.26286399511,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 4D f64/10000000",
+    "mean": {
+      "estimate": 102724.17345196399,
+      "lower_bound": 102038.74211115896,
+      "upper_bound": 103532.20176878865,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 2D f32/100",
+    "mean": {
+      "estimate": 32207.407425468835,
+      "lower_bound": 32081.60974831313,
+      "upper_bound": 32361.428959813245,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 2D f32/1000",
+    "mean": {
+      "estimate": 34117.6604613731,
+      "lower_bound": 34003.39383246918,
+      "upper_bound": 34237.86429616621,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 2D f32/10000",
+    "mean": {
+      "estimate": 35554.97243027195,
+      "lower_bound": 35422.55687995403,
+      "upper_bound": 35693.50887383534,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 2D f32/100000",
+    "mean": {
+      "estimate": 38030.107035116525,
+      "lower_bound": 37860.745374146434,
+      "upper_bound": 38218.64145855811,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 3D f32/100",
+    "mean": {
+      "estimate": 33129.02424892832,
+      "lower_bound": 33013.91432932091,
+      "upper_bound": 33258.02241012637,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 3D f32/1000",
+    "mean": {
+      "estimate": 36632.34733280418,
+      "lower_bound": 36462.53659233711,
+      "upper_bound": 36847.43683761875,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 3D f32/10000",
+    "mean": {
+      "estimate": 39221.40826207384,
+      "lower_bound": 39056.84972209154,
+      "upper_bound": 39410.84339762745,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 3D f32/100000",
+    "mean": {
+      "estimate": 43155.68180171887,
+      "lower_bound": 42875.703664744404,
+      "upper_bound": 43600.73763315582,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 4D f32/100",
+    "mean": {
+      "estimate": 35104.81471255497,
+      "lower_bound": 34907.148960884864,
+      "upper_bound": 35394.04535273526,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 4D f32/1000",
+    "mean": {
+      "estimate": 41473.97998768243,
+      "lower_bound": 41292.260514615555,
+      "upper_bound": 41669.914695511965,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 4D f32/10000",
+    "mean": {
+      "estimate": 46343.93522497403,
+      "lower_bound": 46095.35973351692,
+      "upper_bound": 46641.33378282386,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query Nearest 1/Kiddo_v5_immutable_mveb 4D f32/100000",
+    "mean": {
+      "estimate": 53740.98117820214,
+      "lower_bound": 53351.34313763234,
+      "upper_bound": 54342.964190523366,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 2D f64/100",
+    "mean": {
+      "estimate": 17785.35629253439,
+      "lower_bound": 17723.252557514905,
+      "upper_bound": 17854.770473785098,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 2D f64/1000",
+    "mean": {
+      "estimate": 20640.798893030522,
+      "lower_bound": 20536.27727748188,
+      "upper_bound": 20800.343774325233,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 2D f64/10000",
+    "mean": {
+      "estimate": 57047.1410059835,
+      "lower_bound": 56733.33946111318,
+      "upper_bound": 57476.920887993845,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 2D f64/100000",
+    "mean": {
+      "estimate": 505269.3937563365,
+      "lower_bound": 503484.39700032613,
+      "upper_bound": 507272.4309168727,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 2D f64/1000000",
+    "mean": {
+      "estimate": 5414576.955,
+      "lower_bound": 5399366.844625001,
+      "upper_bound": 5431826.659025002,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 2D f64/10000000",
+    "mean": {
+      "estimate": 266495268.23,
+      "lower_bound": 265964654.3755,
+      "upper_bound": 267023766.23,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 3D f64/100",
+    "mean": {
+      "estimate": 18194.249544950482,
+      "lower_bound": 18085.31523007183,
+      "upper_bound": 18308.10007198133,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 3D f64/1000",
+    "mean": {
+      "estimate": 19034.782685277547,
+      "lower_bound": 18910.72698304523,
+      "upper_bound": 19176.96258312479,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 3D f64/10000",
+    "mean": {
+      "estimate": 24644.76001907064,
+      "lower_bound": 24522.458595815446,
+      "upper_bound": 24783.32750612744,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 3D f64/100000",
+    "mean": {
+      "estimate": 88702.0960265493,
+      "lower_bound": 88058.59272042626,
+      "upper_bound": 89650.32642668736,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 3D f64/1000000",
+    "mean": {
+      "estimate": 725199.3377765258,
+      "lower_bound": 722640.4261678495,
+      "upper_bound": 728069.6309134645,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 3D f64/10000000",
+    "mean": {
+      "estimate": 12909558.145,
+      "lower_bound": 12885096.8744375,
+      "upper_bound": 12934049.2835,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 4D f64/100",
+    "mean": {
+      "estimate": 17517.41548092466,
+      "lower_bound": 17417.947397177635,
+      "upper_bound": 17677.327529297563,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 4D f64/1000",
+    "mean": {
+      "estimate": 18607.08059316428,
+      "lower_bound": 18542.760396008438,
+      "upper_bound": 18672.090098941808,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 4D f64/10000",
+    "mean": {
+      "estimate": 20878.04943931583,
+      "lower_bound": 20790.11028223027,
+      "upper_bound": 20979.22392244414,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 4D f64/100000",
+    "mean": {
+      "estimate": 34618.471214435864,
+      "lower_bound": 34486.92501659882,
+      "upper_bound": 34765.38494950073,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 4D f64/1000000",
+    "mean": {
+      "estimate": 149222.9720051495,
+      "lower_bound": 148514.58536041508,
+      "upper_bound": 150154.08962626828,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 4D f64/10000000",
+    "mean": {
+      "estimate": 2502167.1442857147,
+      "lower_bound": 2492407.7639404763,
+      "upper_bound": 2513057.3756071436,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 2D f32/100",
+    "mean": {
+      "estimate": 17788.907482086186,
+      "lower_bound": 17733.007802545584,
+      "upper_bound": 17858.79212636711,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 2D f32/1000",
+    "mean": {
+      "estimate": 20616.752703953345,
+      "lower_bound": 20507.71017915227,
+      "upper_bound": 20742.07839708732,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 2D f32/10000",
+    "mean": {
+      "estimate": 50641.315353450926,
+      "lower_bound": 50276.994543398876,
+      "upper_bound": 51152.47424028523,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 2D f32/100000",
+    "mean": {
+      "estimate": 383680.64105349185,
+      "lower_bound": 382778.4378298793,
+      "upper_bound": 384710.1414135487,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 3D f32/100",
+    "mean": {
+      "estimate": 17527.9068988251,
+      "lower_bound": 17415.54645793827,
+      "upper_bound": 17690.55654407177,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 3D f32/1000",
+    "mean": {
+      "estimate": 18681.003929114682,
+      "lower_bound": 18598.401780383454,
+      "upper_bound": 18774.65966080191,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 3D f32/10000",
+    "mean": {
+      "estimate": 23821.328633733123,
+      "lower_bound": 23706.569259832213,
+      "upper_bound": 23947.560271792172,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 3D f32/100000",
+    "mean": {
+      "estimate": 78229.93247140577,
+      "lower_bound": 77725.36833285856,
+      "upper_bound": 79041.7365769041,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 4D f32/100",
+    "mean": {
+      "estimate": 17525.340788571004,
+      "lower_bound": 17454.83156486768,
+      "upper_bound": 17606.862916133934,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 4D f32/1000",
+    "mean": {
+      "estimate": 18777.448178374354,
+      "lower_bound": 18663.89689124135,
+      "upper_bound": 18943.931982785987,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 4D f32/10000",
+    "mean": {
+      "estimate": 20294.089010884316,
+      "lower_bound": 20203.82898767689,
+      "upper_bound": 20411.77182278992,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius/Kiddo_v5_immutable_mveb 4D f32/100000",
+    "mean": {
+      "estimate": 31106.14138424933,
+      "lower_bound": 30885.394048399885,
+      "upper_bound": 31403.754675522436,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 2D f64/100",
+    "mean": {
+      "estimate": 17826.66999924924,
+      "lower_bound": 17739.72246856054,
+      "upper_bound": 17965.653414108434,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 2D f64/1000",
+    "mean": {
+      "estimate": 19799.327436441516,
+      "lower_bound": 19677.938249340797,
+      "upper_bound": 19965.067609646438,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 2D f64/10000",
+    "mean": {
+      "estimate": 28134.265840940374,
+      "lower_bound": 27852.584617137123,
+      "upper_bound": 28527.188306199856,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 2D f64/100000",
+    "mean": {
+      "estimate": 117057.55641444694,
+      "lower_bound": 116555.09562753423,
+      "upper_bound": 117696.84639410074,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 2D f64/1000000",
+    "mean": {
+      "estimate": 886312.3114519776,
+      "lower_bound": 882167.7794934241,
+      "upper_bound": 892583.3348392323,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 2D f64/10000000",
+    "mean": {
+      "estimate": 64815258.88,
+      "lower_bound": 64694923.327250004,
+      "upper_bound": 64934649.2095,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 3D f64/100",
+    "mean": {
+      "estimate": 17778.698100703605,
+      "lower_bound": 17690.29967825838,
+      "upper_bound": 17895.677579744017,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 3D f64/1000",
+    "mean": {
+      "estimate": 19395.23781888426,
+      "lower_bound": 19225.016536252082,
+      "upper_bound": 19657.17328244721,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 3D f64/10000",
+    "mean": {
+      "estimate": 22394.17942226809,
+      "lower_bound": 22238.718462039655,
+      "upper_bound": 22586.58142604107,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 3D f64/100000",
+    "mean": {
+      "estimate": 46984.171525953374,
+      "lower_bound": 46593.71619055147,
+      "upper_bound": 47597.79501503662,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 3D f64/1000000",
+    "mean": {
+      "estimate": 254087.24840931207,
+      "lower_bound": 251503.1182865444,
+      "upper_bound": 257721.4972728624,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 3D f64/10000000",
+    "mean": {
+      "estimate": 9552655.881666666,
+      "lower_bound": 9524421.063833335,
+      "upper_bound": 9584180.744833333,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 4D f64/100",
+    "mean": {
+      "estimate": 17685.782181021223,
+      "lower_bound": 17560.909846157734,
+      "upper_bound": 17848.47981909189,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 4D f64/1000",
+    "mean": {
+      "estimate": 18584.404978005627,
+      "lower_bound": 18503.622270962533,
+      "upper_bound": 18660.96667146997,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 4D f64/10000",
+    "mean": {
+      "estimate": 21047.730535395374,
+      "lower_bound": 20943.876732778583,
+      "upper_bound": 21195.962420696793,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 4D f64/100000",
+    "mean": {
+      "estimate": 31765.14037227251,
+      "lower_bound": 31429.29686760454,
+      "upper_bound": 32207.172756202326,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 4D f64/1000000",
+    "mean": {
+      "estimate": 97132.82552953488,
+      "lower_bound": 96363.4178935469,
+      "upper_bound": 98203.7787318632,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 4D f64/10000000",
+    "mean": {
+      "estimate": 2114593.713333334,
+      "lower_bound": 2106663.4161354164,
+      "upper_bound": 2123194.8101562504,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 2D f32/100",
+    "mean": {
+      "estimate": 17824.104884197903,
+      "lower_bound": 17745.437581850467,
+      "upper_bound": 17932.242546851445,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 2D f32/1000",
+    "mean": {
+      "estimate": 19753.33732325833,
+      "lower_bound": 19667.38250820066,
+      "upper_bound": 19847.352365047183,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 2D f32/10000",
+    "mean": {
+      "estimate": 28485.272739752418,
+      "lower_bound": 28358.885968757186,
+      "upper_bound": 28634.69375438137,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 2D f32/100000",
+    "mean": {
+      "estimate": 108283.5073343514,
+      "lower_bound": 107673.23743990374,
+      "upper_bound": 109262.4474449574,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 3D f32/100",
+    "mean": {
+      "estimate": 17691.00736543729,
+      "lower_bound": 17639.402254005592,
+      "upper_bound": 17752.135503072393,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 3D f32/1000",
+    "mean": {
+      "estimate": 19169.11044559537,
+      "lower_bound": 19093.41599915634,
+      "upper_bound": 19270.674308397614,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 3D f32/10000",
+    "mean": {
+      "estimate": 22136.167981719213,
+      "lower_bound": 22025.71888445696,
+      "upper_bound": 22270.755542653213,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 3D f32/100000",
+    "mean": {
+      "estimate": 46285.92141601719,
+      "lower_bound": 46108.81263523626,
+      "upper_bound": 46477.502458161485,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 4D f32/100",
+    "mean": {
+      "estimate": 17711.029005710458,
+      "lower_bound": 17497.975547660637,
+      "upper_bound": 18069.43511574843,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 4D f32/1000",
+    "mean": {
+      "estimate": 18714.05773186628,
+      "lower_bound": 18626.323584963513,
+      "upper_bound": 18857.597145068856,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 4D f32/10000",
+    "mean": {
+      "estimate": 20817.71796029322,
+      "lower_bound": 20689.62439875109,
+      "upper_bound": 20984.421316103184,
+      "unit": "ns"
+    }
+  },
+  {
+    "id": "Query within radius unsorted/Kiddo_v5_immutable_mveb 4D f32/100000",
+    "mean": {
+      "estimate": 27984.830964894885,
+      "lower_bound": 27894.95878709623,
+      "upper_bound": 28084.383187166313,
       "unit": "ns"
     }
   }
